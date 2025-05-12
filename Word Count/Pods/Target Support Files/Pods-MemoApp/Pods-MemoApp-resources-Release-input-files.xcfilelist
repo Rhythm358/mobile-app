@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Google-Mobile-Ads-SDK/GoogleMobileAdsResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleUserMessagingPlatform/UserMessagingPlatformResources.bundle

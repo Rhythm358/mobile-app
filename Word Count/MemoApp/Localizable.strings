@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Word Count
+
+  Created by 松尾祐樹 on 2023/10/16.
+  
+*/
+
+"Scoring" = "Scoring !";
+"MessageContentKey" = "#1. Original sentences #2. In a few words, what is the score of the following sentence out of 10 points? #3. Revised text #4. Advice";

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384683480172",
+    "project_id": "suica-76a9a",
+    "storage_bucket": "suica-76a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384683480172:android:a94c2daa82fa023a2bf449",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Suica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTibDhXZTn0Q4PqS1zD-Phey5M0JLyTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,913 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7C657137BE50DEAC10BBBC5C /* Pods_MemoApp_MemoAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60C567DACA075C41C4ADBEEF /* Pods_MemoApp_MemoAppUITests.framework */; };
+		B93A2BAA2C0639FA00009520 /* DarkModeSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = B93A2BA92C0639FA00009520 /* DarkModeSetting.swift */; };
+		B93A2BAC2C07611C00009520 /* AdBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = B93A2BAB2C07611C00009520 /* AdBanner.swift */; };
+		B967B2762C13FE55007AD2F7 /* Native.swift in Sources */ = {isa = PBXBuildFile; fileRef = B967B2752C13FE55007AD2F7 /* Native.swift */; };
+		B967B2782C13FF2E007AD2F7 /* ChatGPT_ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B967B2772C13FF2E007AD2F7 /* ChatGPT_ViewModel.swift */; };
+		B967B27A2C13FF8F007AD2F7 /* NativeAdView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B967B2792C13FF8F007AD2F7 /* NativeAdView.xib */; };
+		B967B27C2C13FFD5007AD2F7 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B967B27B2C13FFD5007AD2F7 /* Localizable.strings */; };
+		B96981582C08D22900469277 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B96981572C08D22900469277 /* Info.plist */; };
+		B971C27B2C062A8600A13337 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B971C27A2C062A8600A13337 /* TimerManager.swift */; };
+		B971C27D2C062C0F00A13337 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B971C27C2C062C0F00A13337 /* SettingView.swift */; };
+		B9F1F97C2C14143A00CDD849 /* ChatGPT_Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F1F97B2C14143A00CDD849 /* ChatGPT_Response.swift */; };
+		B9F1F97E2C14148E00CDD849 /* Credentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F1F97D2C14148E00CDD849 /* Credentials.swift */; };
+		B9F1F9822C14178A00CDD849 /* ChatGPT_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F1F9812C14178A00CDD849 /* ChatGPT_View.swift */; };
+		B9F1F9842C1417CC00CDD849 /* Interstitial.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F1F9832C1417CC00CDD849 /* Interstitial.swift */; };
+		B9F9AE3C2D74BBB300DA7346 /* AppOpen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F9AE3B2D74BBAC00DA7346 /* AppOpen.swift */; };
+		C91A0259C2BD3D9D1EFB7B27 /* Pods_MemoAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51CE896921F9CD76DDB181AF /* Pods_MemoAppTests.framework */; };
+		CBBFAE5E27D1925300860164 /* MemoAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE5D27D1925300860164 /* MemoAppApp.swift */; };
+		CBBFAE6027D1925300860164 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE5F27D1925300860164 /* ContentView.swift */; };
+		CBBFAE6227D1925500860164 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBBFAE6127D1925500860164 /* Assets.xcassets */; };
+		CBBFAE6527D1925500860164 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBBFAE6427D1925500860164 /* Preview Assets.xcassets */; };
+		CBBFAE6727D1925500860164 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE6627D1925500860164 /* Persistence.swift */; };
+		CBBFAE6A27D1925500860164 /* MemoApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE6827D1925500860164 /* MemoApp.xcdatamodeld */; };
+		CBBFAE8E27D6BF8E00860164 /* Memo+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE8C27D6BF8E00860164 /* Memo+CoreDataClass.swift */; };
+		CBBFAE8F27D6BF8E00860164 /* Memo+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE8D27D6BF8E00860164 /* Memo+CoreDataProperties.swift */; };
+		CBBFAE9127D6D23C00860164 /* EditMemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBFAE9027D6D23C00860164 /* EditMemoView.swift */; };
+		D606F4689D972E8F916D2DA9 /* Pods_MemoApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01084972EC75D10F94882F7A /* Pods_MemoApp.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CBBFAE7027D1925500860164 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CBBFAE5227D1925300860164 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CBBFAE5927D1925300860164;
+			remoteInfo = MemoApp;
+		};
+		CBBFAE7A27D1925500860164 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CBBFAE5227D1925300860164 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CBBFAE5927D1925300860164;
+			remoteInfo = MemoApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01084972EC75D10F94882F7A /* Pods_MemoApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MemoApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		02FB9DF2B32200BD1B23368A /* Pods-MemoAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoAppTests.release.xcconfig"; path = "Target Support Files/Pods-MemoAppTests/Pods-MemoAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		1B99018D61B60E3BD6E45A52 /* Pods-MemoApp-MemoAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoApp-MemoAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		3745ABB335B056E6A7A1366A /* Pods-MemoApp-MemoAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoApp-MemoAppUITests.release.xcconfig"; path = "Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests.release.xcconfig"; sourceTree = "<group>"; };
+		4C270F647FD3C8C6F3FD957B /* Pods-MemoApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoApp.debug.xcconfig"; path = "Target Support Files/Pods-MemoApp/Pods-MemoApp.debug.xcconfig"; sourceTree = "<group>"; };
+		51CE896921F9CD76DDB181AF /* Pods_MemoAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MemoAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D6A1AD4BE3F1919081E0837 /* Pods-MemoAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoAppTests.debug.xcconfig"; path = "Target Support Files/Pods-MemoAppTests/Pods-MemoAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		60C567DACA075C41C4ADBEEF /* Pods_MemoApp_MemoAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MemoApp_MemoAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C3B7FF469F842EB77C18ED4 /* Pods-MemoApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MemoApp.release.xcconfig"; path = "Target Support Files/Pods-MemoApp/Pods-MemoApp.release.xcconfig"; sourceTree = "<group>"; };
+		B93A2BA92C0639FA00009520 /* DarkModeSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeSetting.swift; sourceTree = "<group>"; };
+		B93A2BAB2C07611C00009520 /* AdBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdBanner.swift; sourceTree = "<group>"; };
+		B967B2752C13FE55007AD2F7 /* Native.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Native.swift; sourceTree = "<group>"; };
+		B967B2772C13FF2E007AD2F7 /* ChatGPT_ViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatGPT_ViewModel.swift; sourceTree = "<group>"; };
+		B967B2792C13FF8F007AD2F7 /* NativeAdView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NativeAdView.xib; sourceTree = "<group>"; };
+		B967B27B2C13FFD5007AD2F7 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		B96981562C08D22900469277 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = ja; path = ja.lproj/Info.plist; sourceTree = "<group>"; };
+		B96981592C08D23400469277 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/Info.plist; sourceTree = "<group>"; };
+		B971C27A2C062A8600A13337 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		B971C27C2C062C0F00A13337 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		B9F1F97B2C14143A00CDD849 /* ChatGPT_Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatGPT_Response.swift; sourceTree = "<group>"; };
+		B9F1F97D2C14148E00CDD849 /* Credentials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Credentials.swift; sourceTree = "<group>"; };
+		B9F1F9812C14178A00CDD849 /* ChatGPT_View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatGPT_View.swift; sourceTree = "<group>"; };
+		B9F1F9832C1417CC00CDD849 /* Interstitial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interstitial.swift; sourceTree = "<group>"; };
+		B9F9AE3B2D74BBAC00DA7346 /* AppOpen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppOpen.swift; sourceTree = "<group>"; };
+		CBBFAE5A27D1925300860164 /* MemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBBFAE5D27D1925300860164 /* MemoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoAppApp.swift; sourceTree = "<group>"; };
+		CBBFAE5F27D1925300860164 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CBBFAE6127D1925500860164 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CBBFAE6427D1925500860164 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CBBFAE6627D1925500860164 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		CBBFAE6927D1925500860164 /* MemoApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MemoApp.xcdatamodel; sourceTree = "<group>"; };
+		CBBFAE6F27D1925500860164 /* MemoAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBBFAE7927D1925500860164 /* MemoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBBFAE8C27D6BF8E00860164 /* Memo+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Memo+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CBBFAE8D27D6BF8E00860164 /* Memo+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Memo+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		CBBFAE9027D6D23C00860164 /* EditMemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditMemoView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CBBFAE5727D1925300860164 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D606F4689D972E8F916D2DA9 /* Pods_MemoApp.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE6C27D1925500860164 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C91A0259C2BD3D9D1EFB7B27 /* Pods_MemoAppTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE7627D1925500860164 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C657137BE50DEAC10BBBC5C /* Pods_MemoApp_MemoAppUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		71FF36AC2B073CECC94AA9B0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4C270F647FD3C8C6F3FD957B /* Pods-MemoApp.debug.xcconfig */,
+				9C3B7FF469F842EB77C18ED4 /* Pods-MemoApp.release.xcconfig */,
+				1B99018D61B60E3BD6E45A52 /* Pods-MemoApp-MemoAppUITests.debug.xcconfig */,
+				3745ABB335B056E6A7A1366A /* Pods-MemoApp-MemoAppUITests.release.xcconfig */,
+				5D6A1AD4BE3F1919081E0837 /* Pods-MemoAppTests.debug.xcconfig */,
+				02FB9DF2B32200BD1B23368A /* Pods-MemoAppTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		99F3B5E86117D1D5190D976A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				01084972EC75D10F94882F7A /* Pods_MemoApp.framework */,
+				60C567DACA075C41C4ADBEEF /* Pods_MemoApp_MemoAppUITests.framework */,
+				51CE896921F9CD76DDB181AF /* Pods_MemoAppTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B9F1F97F2C1414E400CDD849 /* ChatGPT */ = {
+			isa = PBXGroup;
+			children = (
+				B9F1F97D2C14148E00CDD849 /* Credentials.swift */,
+				B967B2772C13FF2E007AD2F7 /* ChatGPT_ViewModel.swift */,
+				B9F1F9812C14178A00CDD849 /* ChatGPT_View.swift */,
+				B9F1F97B2C14143A00CDD849 /* ChatGPT_Response.swift */,
+			);
+			path = ChatGPT;
+			sourceTree = "<group>";
+		};
+		B9F1F9802C14150100CDD849 /* Ads */ = {
+			isa = PBXGroup;
+			children = (
+				B9F9AE3B2D74BBAC00DA7346 /* AppOpen.swift */,
+				B93A2BAB2C07611C00009520 /* AdBanner.swift */,
+				B9F1F9832C1417CC00CDD849 /* Interstitial.swift */,
+				B967B2752C13FE55007AD2F7 /* Native.swift */,
+				B967B2792C13FF8F007AD2F7 /* NativeAdView.xib */,
+			);
+			path = Ads;
+			sourceTree = "<group>";
+		};
+		CBBFAE5127D1925300860164 = {
+			isa = PBXGroup;
+			children = (
+				CBBFAE8C27D6BF8E00860164 /* Memo+CoreDataClass.swift */,
+				CBBFAE8D27D6BF8E00860164 /* Memo+CoreDataProperties.swift */,
+				CBBFAE5C27D1925300860164 /* MemoApp */,
+				CBBFAE5B27D1925300860164 /* Products */,
+				71FF36AC2B073CECC94AA9B0 /* Pods */,
+				99F3B5E86117D1D5190D976A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CBBFAE5B27D1925300860164 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CBBFAE5A27D1925300860164 /* MemoApp.app */,
+				CBBFAE6F27D1925500860164 /* MemoAppTests.xctest */,
+				CBBFAE7927D1925500860164 /* MemoAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CBBFAE5C27D1925300860164 /* MemoApp */ = {
+			isa = PBXGroup;
+			children = (
+				B9F1F9802C14150100CDD849 /* Ads */,
+				B9F1F97F2C1414E400CDD849 /* ChatGPT */,
+				B96981572C08D22900469277 /* Info.plist */,
+				CBBFAE5D27D1925300860164 /* MemoAppApp.swift */,
+				CBBFAE5F27D1925300860164 /* ContentView.swift */,
+				CBBFAE6127D1925500860164 /* Assets.xcassets */,
+				CBBFAE6627D1925500860164 /* Persistence.swift */,
+				CBBFAE6827D1925500860164 /* MemoApp.xcdatamodeld */,
+				CBBFAE6327D1925500860164 /* Preview Content */,
+				CBBFAE9027D6D23C00860164 /* EditMemoView.swift */,
+				B971C27A2C062A8600A13337 /* TimerManager.swift */,
+				B971C27C2C062C0F00A13337 /* SettingView.swift */,
+				B93A2BA92C0639FA00009520 /* DarkModeSetting.swift */,
+				B967B27B2C13FFD5007AD2F7 /* Localizable.strings */,
+			);
+			path = MemoApp;
+			sourceTree = "<group>";
+		};
+		CBBFAE6327D1925500860164 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CBBFAE6427D1925500860164 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CBBFAE5927D1925300860164 /* MemoApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBBFAE8327D1925500860164 /* Build configuration list for PBXNativeTarget "MemoApp" */;
+			buildPhases = (
+				AE1C22480B50582F8D018B51 /* [CP] Check Pods Manifest.lock */,
+				CBBFAE5627D1925300860164 /* Sources */,
+				CBBFAE5727D1925300860164 /* Frameworks */,
+				CBBFAE5827D1925300860164 /* Resources */,
+				2239035AAE249EC30FE5D254 /* [CP] Embed Pods Frameworks */,
+				9CAE0B37167F8E46F7E90BEC /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MemoApp;
+			productName = MemoApp;
+			productReference = CBBFAE5A27D1925300860164 /* MemoApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CBBFAE6E27D1925500860164 /* MemoAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBBFAE8627D1925500860164 /* Build configuration list for PBXNativeTarget "MemoAppTests" */;
+			buildPhases = (
+				199C2D0E9A490F5E7CD967BC /* [CP] Check Pods Manifest.lock */,
+				CBBFAE6B27D1925500860164 /* Sources */,
+				CBBFAE6C27D1925500860164 /* Frameworks */,
+				CBBFAE6D27D1925500860164 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CBBFAE7127D1925500860164 /* PBXTargetDependency */,
+			);
+			name = MemoAppTests;
+			productName = MemoAppTests;
+			productReference = CBBFAE6F27D1925500860164 /* MemoAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CBBFAE7827D1925500860164 /* MemoAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBBFAE8927D1925500860164 /* Build configuration list for PBXNativeTarget "MemoAppUITests" */;
+			buildPhases = (
+				DDBAEAB8970DAC70E5A6639A /* [CP] Check Pods Manifest.lock */,
+				CBBFAE7527D1925500860164 /* Sources */,
+				CBBFAE7627D1925500860164 /* Frameworks */,
+				CBBFAE7727D1925500860164 /* Resources */,
+				2D26B848D518A34F95D370D8 /* [CP] Embed Pods Frameworks */,
+				3EE2BE24AA8672F8BAA37785 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CBBFAE7B27D1925500860164 /* PBXTargetDependency */,
+			);
+			name = MemoAppUITests;
+			productName = MemoAppUITests;
+			productReference = CBBFAE7927D1925500860164 /* MemoAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CBBFAE5227D1925300860164 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					CBBFAE5927D1925300860164 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					CBBFAE6E27D1925500860164 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = CBBFAE5927D1925300860164;
+					};
+					CBBFAE7827D1925500860164 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = CBBFAE5927D1925300860164;
+					};
+				};
+			};
+			buildConfigurationList = CBBFAE5527D1925300860164 /* Build configuration list for PBXProject "MemoApp" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ja,
+			);
+			mainGroup = CBBFAE5127D1925300860164;
+			packageReferences = (
+				B9F1F9752C14132C00CDD849 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
+			productRefGroup = CBBFAE5B27D1925300860164 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CBBFAE5927D1925300860164 /* MemoApp */,
+				CBBFAE6E27D1925500860164 /* MemoAppTests */,
+				CBBFAE7827D1925500860164 /* MemoAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CBBFAE5827D1925300860164 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B967B27C2C13FFD5007AD2F7 /* Localizable.strings in Resources */,
+				B967B27A2C13FF8F007AD2F7 /* NativeAdView.xib in Resources */,
+				B96981582C08D22900469277 /* Info.plist in Resources */,
+				CBBFAE6527D1925500860164 /* Preview Assets.xcassets in Resources */,
+				CBBFAE6227D1925500860164 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE6D27D1925500860164 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE7727D1925500860164 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		199C2D0E9A490F5E7CD967BC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MemoAppTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2239035AAE249EC30FE5D254 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2D26B848D518A34F95D370D8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3EE2BE24AA8672F8BAA37785 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MemoApp-MemoAppUITests/Pods-MemoApp-MemoAppUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9CAE0B37167F8E46F7E90BEC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MemoApp/Pods-MemoApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AE1C22480B50582F8D018B51 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MemoApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DDBAEAB8970DAC70E5A6639A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MemoApp-MemoAppUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CBBFAE5627D1925300860164 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBBFAE8E27D6BF8E00860164 /* Memo+CoreDataClass.swift in Sources */,
+				B93A2BAA2C0639FA00009520 /* DarkModeSetting.swift in Sources */,
+				B9F1F9822C14178A00CDD849 /* ChatGPT_View.swift in Sources */,
+				B9F9AE3C2D74BBB300DA7346 /* AppOpen.swift in Sources */,
+				B971C27B2C062A8600A13337 /* TimerManager.swift in Sources */,
+				CBBFAE6727D1925500860164 /* Persistence.swift in Sources */,
+				B967B2782C13FF2E007AD2F7 /* ChatGPT_ViewModel.swift in Sources */,
+				B971C27D2C062C0F00A13337 /* SettingView.swift in Sources */,
+				CBBFAE6027D1925300860164 /* ContentView.swift in Sources */,
+				B9F1F9842C1417CC00CDD849 /* Interstitial.swift in Sources */,
+				B967B2762C13FE55007AD2F7 /* Native.swift in Sources */,
+				B9F1F97C2C14143A00CDD849 /* ChatGPT_Response.swift in Sources */,
+				CBBFAE9127D6D23C00860164 /* EditMemoView.swift in Sources */,
+				CBBFAE8F27D6BF8E00860164 /* Memo+CoreDataProperties.swift in Sources */,
+				CBBFAE5E27D1925300860164 /* MemoAppApp.swift in Sources */,
+				B9F1F97E2C14148E00CDD849 /* Credentials.swift in Sources */,
+				B93A2BAC2C07611C00009520 /* AdBanner.swift in Sources */,
+				CBBFAE6A27D1925500860164 /* MemoApp.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE6B27D1925500860164 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBBFAE7527D1925500860164 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CBBFAE7127D1925500860164 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CBBFAE5927D1925300860164 /* MemoApp */;
+			targetProxy = CBBFAE7027D1925500860164 /* PBXContainerItemProxy */;
+		};
+		CBBFAE7B27D1925500860164 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CBBFAE5927D1925300860164 /* MemoApp */;
+			targetProxy = CBBFAE7A27D1925500860164 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B96981572C08D22900469277 /* Info.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B96981562C08D22900469277 /* ja */,
+				B96981592C08D23400469277 /* en */,
+			);
+			name = Info.plist;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CBBFAE8127D1925500860164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "$(SRCROOT)/MemoApp/MemoApp/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CBBFAE8227D1925500860164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "$(SRCROOT)/MemoApp/MemoApp/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CBBFAE8427D1925500860164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C270F647FD3C8C6F3FD957B /* Pods-MemoApp.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"MemoApp/Preview Content\"";
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MemoApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Word Count";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CBBFAE8527D1925500860164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C3B7FF469F842EB77C18ED4 /* Pods-MemoApp.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"MemoApp/Preview Content\"";
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MemoApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Word Count";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CBBFAE8727D1925500860164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D6A1AD4BE3F1919081E0837 /* Pods-MemoAppTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MemoApp.app/MemoApp";
+			};
+			name = Debug;
+		};
+		CBBFAE8827D1925500860164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 02FB9DF2B32200BD1B23368A /* Pods-MemoAppTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MemoApp.app/MemoApp";
+			};
+			name = Release;
+		};
+		CBBFAE8A27D1925500860164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B99018D61B60E3BD6E45A52 /* Pods-MemoApp-MemoAppUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Word Count";
+			};
+			name = Debug;
+		};
+		CBBFAE8B27D1925500860164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3745ABB335B056E6A7A1366A /* Pods-MemoApp-MemoAppUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D9Z25VSP9N;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DefaultCompany.WordCount;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Word Count";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CBBFAE5527D1925300860164 /* Build configuration list for PBXProject "MemoApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBBFAE8127D1925500860164 /* Debug */,
+				CBBFAE8227D1925500860164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBBFAE8327D1925500860164 /* Build configuration list for PBXNativeTarget "MemoApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBBFAE8427D1925500860164 /* Debug */,
+				CBBFAE8527D1925500860164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBBFAE8627D1925500860164 /* Build configuration list for PBXNativeTarget "MemoAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBBFAE8727D1925500860164 /* Debug */,
+				CBBFAE8827D1925500860164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBBFAE8927D1925500860164 /* Build configuration list for PBXNativeTarget "MemoAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBBFAE8A27D1925500860164 /* Debug */,
+				CBBFAE8B27D1925500860164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B9F1F9752C14132C00CDD849 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.9.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCVersionGroup section */
+		CBBFAE6827D1925500860164 /* MemoApp.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				CBBFAE6927D1925500860164 /* MemoApp.xcdatamodel */,
+			);
+			currentVersion = CBBFAE6927D1925500860164 /* MemoApp.xcdatamodel */;
+			path = MemoApp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = CBBFAE5227D1925300860164 /* Project object */;
+}

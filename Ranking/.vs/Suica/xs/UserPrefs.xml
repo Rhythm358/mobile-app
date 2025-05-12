@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8F3E0328-060C-555E-5111-769B47BB94DE}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f3f7e5a-5721-4979-be1a-775bcd0fe26e" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SafeAreaAdjusteer.cs">
+    <Files>
+      <File FileName="Assets/Hit.cs" Line="35" Column="38" />
+      <File FileName="Assets/GameManager.cs" Line="9" Column="5" />
+      <File FileName="Assets/Otosu.cs" Line="20" Column="6" />
+      <File FileName="Assets/Move.cs" Line="11" Column="29" />
+      <File FileName="Assets/GameOver.cs" Line="22" Column="18" />
+      <File FileName="Assets/Retry.cs" Line="21" Column="11" />
+      <File FileName="Assets/AdMobScript.cs" Line="12" Column="1" />
+      <File FileName="Assets/SafeAreaAdjusteer.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

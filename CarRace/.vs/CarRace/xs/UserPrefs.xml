@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E40392FA-D873-9E4F-0001-67E1B53AFFE5}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdMobBanner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AdMobBanner.cs" Line="95" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0bb473e6-13be-4960-8c71-4eb665e998d6" />
+</Properties>

@@ -1,0 +1,8 @@
+## 画像の3x3分割手順
+
+1. 画像ファイルを選択し、「Inspector」ウィンドウで「Sprite Mode」を「Multiple」に設定します。
+2. 「Sprite Editor」を開き、分割設定を「Slice」→「Grid By Cell Size」にして、幅と高さを指定します。
+    Pixel Size X100 Y100
+3. 「Slice」ボタンをクリックして画像を分割し、「Apply」を押して保存します。
+
+

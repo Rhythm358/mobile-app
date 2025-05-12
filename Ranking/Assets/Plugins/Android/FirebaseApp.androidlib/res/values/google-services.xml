@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">384683480172</string>
+  <string name="google_storage_bucket" translatable="false">suica-76a9a.appspot.com</string>
+  <string name="project_id" translatable="false">suica-76a9a</string>
+  <string name="google_api_key" translatable="false">AIzaSyBaTibDhXZTn0Q4PqS1zD-Phey5M0JLyTA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaTibDhXZTn0Q4PqS1zD-Phey5M0JLyTA</string>
+  <string name="google_app_id" translatable="false">1:384683480172:android:a94c2daa82fa023a2bf449</string>
+</resources>

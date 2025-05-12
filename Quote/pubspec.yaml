@@ -1,0 +1,84 @@
+name: basic
+description: A basic game built in Flutter.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+#バージョン番号の構造は以下の通りです：
+# バージョン番号の構造: major.minor.patch+build
+# - major: 互換性のない大きな変更
+# - minor: 後方互換性のある機能追加
+# - patch: 後方互換性のあるバグ修正
+# - build: 内部ビルド番号
+version: 1.1.22+22
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  audioplayers: ^6.0.0
+  go_router: ^14.0.0
+  logging: ^1.2.0
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  google_mobile_ads: any
+  url_launcher: ^6.1.7
+  auto_size_text: any
+  app_tracking_transparency: ^2.0.4
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.19.0
+  path_provider: ^2.0.11
+  just_audio: ^0.9.36
+  just_audio_background: ^0.0.1-beta.15
+  audio_session: ^0.1.18
+  in_app_review: any
+  audio_video_progress_bar: any
+  card_swiper: any
+  flutter_tts: any
+  share_plus: any
+  screenshot: any
+  video_player: any
+  animated_background: ^2.0.0
+  color_palette_plus: ^1.0.0
+  flutter_fgbg: any
+  flutter_app_lifecycle: any
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+  test: ^1.24.3
+  hive_generator: ^2.0.0
+  build_runner: ^2.3.3
+
+flutter:
+  uses-material-design: true
+  generate: true  # 多言語対応
+
+  assets:
+    - assets/images/
+    - assets/sfx/
+    - assets/quotes_en.json
+    - assets/quotes_ja.json
+
+  fonts:
+    - family: Permanent Marker
+      fonts:
+        - asset: assets/fonts/Permanent_Marker/PermanentMarker-Regular.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon.png"
+  adaptive_icon_foreground: "assets/icons/icon-adaptive-foreground.png"
+  adaptive_icon_background: "assets/icons/icon-adaptive-foreground.png"
+
+#  アイコン生成コマンド
+#  dart run flutter_launcher_icons:main
