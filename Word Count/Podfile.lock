@@ -1,8 +1,8 @@
 PODS:
-  - Alamofire (5.9.1)
-  - Google-Mobile-Ads-SDK (11.5.0):
+  - Alamofire (5.10.2)
+  - Google-Mobile-Ads-SDK (12.2.0):
     - GoogleUserMessagingPlatform (>= 1.1)
-  - GoogleUserMessagingPlatform (2.4.0)
+  - GoogleUserMessagingPlatform (3.0.0)
 
 DEPENDENCIES:
   - Alamofire
@@ -15,10 +15,10 @@ SPEC REPOS:
     - GoogleUserMessagingPlatform
 
 SPEC CHECKSUMS:
-  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
-  Google-Mobile-Ads-SDK: 7db2098033ad3bfcd72a11e7503b49700a93029e
-  GoogleUserMessagingPlatform: f131fa7978d2ba88d7426702b057c2cc318e6595
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  Google-Mobile-Ads-SDK: 1dfb0c3cb46c7e2b00b0f4de74a1e06d9ea25d67
+  GoogleUserMessagingPlatform: f8d0cdad3ca835406755d0a69aa634f00e76d576
 
-PODFILE CHECKSUM: 244a168089ba99e1c3cf884eb30ba8e339e96b3c
+PODFILE CHECKSUM: f9913c23807b1f5d314fd0547078812eb2ddbc4a
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
