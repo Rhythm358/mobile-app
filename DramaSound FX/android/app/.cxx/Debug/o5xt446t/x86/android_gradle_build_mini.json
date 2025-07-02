@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/matsuoyuki/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/matsuoyuki/Desktop/MyHobby/Flutter/DramaSound FX/android/app/.cxx/Debug/o5xt446t/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/matsuoyuki/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/matsuoyuki/Desktop/MyHobby/Flutter/DramaSound FX/android/app/.cxx/Debug/o5xt446t/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

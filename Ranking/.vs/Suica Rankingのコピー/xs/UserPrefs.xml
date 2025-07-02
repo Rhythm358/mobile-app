@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{32496366-350A-4EDD-7642-5730EBF877EC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2aa7fd89-46f5-4567-b4eb-3c7d0552260c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FireStoreScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FireStoreScript.cs" Line="135" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

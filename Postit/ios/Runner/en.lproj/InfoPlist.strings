@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 松尾祐樹 on 2023/08/27.
+  
+*/
+
+"NSUserTrackingUsageDescription"="It is used to display advertisements tailored to your interests.";
+"NSPhotoLibraryUsageDescription"="Use album";

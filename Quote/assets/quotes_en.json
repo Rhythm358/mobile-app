@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "en001",
+    "text": "It's the little things that are important. Little things make big things happen.",
+    "author": "John Wooden",
+    "language": "en",
+    "categories": [
+      "growth",
+      "details"
+    ]
+  },
+  {
+    "id": "en002",
+    "text": "I never lose. I either win or learn.",
+    "author": "Nelson Mandela",
+    "language": "en",
+    "categories": [
+      "learning",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en003",
+    "text": "My thoughts become clear when expressed through speech or writing.",
+    "author": "Dawson Trotman",
+    "language": "en",
+    "categories": [
+      "creativity",
+      "expression"
+    ]
+  },
+  {
+    "id": "en004",
+    "text": "Effort surpasses talent. Talent is meaningless without effort.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "success",
+      "work"
+    ]
+  },
+  {
+    "id": "en005",
+    "text": "The only person you should strive to be better than is the person you were yesterday.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-improvement",
+      "growth"
+    ]
+  },
+  {
+    "id": "en006",
+    "text": "The key to success is the courage to act and the resilience to accept failure.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "belief",
+      "action"
+    ]
+  },
+  {
+    "id": "en007",
+    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas Edison",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "en008",
+    "text": "Only those who risk going too far can discover how far they can go.",
+    "author": "T.S. Eliot",
+    "language": "en",
+    "categories": [
+      "risk",
+      "potential"
+    ]
+  },
+  {
+    "id": "en009",
+    "text": "The only thing worse than being blind is having sight but no vision.",
+    "author": "Helen Keller",
+    "language": "en",
+    "categories": [
+      "perspective",
+      "vision"
+    ]
+  },
+  {
+    "id": "en010",
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "language": "en",
+    "categories": [
+      "beginning",
+      "action"
+    ]
+  },
+  {
+    "id": "en011",
+    "text": "True nobility is being superior to your former self.",
+    "author": "Ernest Hemingway",
+    "language": "en",
+    "categories": [
+      "self-improvement",
+      "nobility"
+    ]
+  },
+  {
+    "id": "en012",
+    "text": "You grow up the day you have your first real laugh at yourself.",
+    "author": "Ethel Barrymore",
+    "language": "en",
+    "categories": [
+      "humor",
+      "maturity"
+    ]
+  },
+  {
+    "id": "en013",
+    "text": "Gentleness is the strongest force in the world.",
+    "author": "Han Suyin",
+    "language": "en",
+    "categories": [
+      "kindness",
+      "strength"
+    ]
+  },
+  {
+    "id": "en014",
+    "text": "Everyone who has taken a shower has had an idea. It's the person who gets out of the shower, dries off, and does something about it who makes a difference.",
+    "author": "Nolan Bushnell",
+    "language": "en",
+    "categories": [
+      "action",
+      "ideas"
+    ]
+  },
+  {
+    "id": "en015",
+    "text": "A successful person is one who can lay a firm foundation with the bricks others have thrown at them.",
+    "author": "David Brinkley",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "success"
+    ]
+  },
+  {
+    "id": "en016",
+    "text": "All progress takes place outside the comfort zone.",
+    "author": "Michael John Bobak",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "en017",
+    "text": "Mystery creates wonder, and wonder is the basis of man's desire to understand.",
+    "author": "Neil Armstrong",
+    "language": "en",
+    "categories": [
+      "curiosity",
+      "understanding"
+    ]
+  },
+  {
+    "id": "en018",
+    "text": "If you want to be happy, be.",
+    "author": "Leo Tolstoy",
+    "language": "en",
+    "categories": [
+      "happiness",
+      "simplicity"
+    ]
+  },
+  {
+    "id": "en019",
+    "text": "If we did all the things we are capable of, we would literally astound ourselves.",
+    "author": "Thomas Edison",
+    "language": "en",
+    "categories": [
+      "potential",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "en020",
+    "text": "Optimism is true moral courage.",
+    "author": "Ernest Shackleton",
+    "language": "en",
+    "categories": [
+      "optimism",
+      "courage"
+    ]
+  },
+  {
+    "id": "en021",
+    "text": "He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying.",
+    "author": "Friedrich Nietzsche",
+    "language": "en",
+    "categories": [
+      "growth",
+      "patience"
+    ]
+  },
+  {
+    "id": "en022",
+    "text": "Success comes before work only in the dictionary.",
+    "author": "Vidal Sassoon",
+    "language": "en",
+    "categories": [
+      "success",
+      "work"
+    ]
+  },
+  {
+    "id": "en023",
+    "text": "Strive only to be a better person than you were yesterday.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-improvement",
+      "growth"
+    ]
+  },
+  {
+    "id": "en024",
+    "text": "Believe and act as if it were impossible to fail.",
+    "author": "Charles Kettering",
+    "language": "en",
+    "categories": [
+      "belief",
+      "action"
+    ]
+  },
+  {
+    "id": "en025",
+    "text": "Peace is not the absence of conflict, but the ability to constructively manage it.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "peace",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en026",
+    "text": "Every day, you can take a small step in the right direction.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "progress",
+      "consistency"
+    ]
+  },
+  {
+    "id": "en027",
+    "text": "Some of the most wonderful things in life are unseen, which is why we close our eyes when we kiss, cry, and dream.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "perspective",
+      "emotion"
+    ]
+  },
+  {
+    "id": "en028",
+    "text": "Beyond the clouds, there is a bright blue sky.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "hope",
+      "optimism"
+    ]
+  },
+  {
+    "id": "en029",
+    "text": "Storms don't last forever.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "hope",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en030",
+    "text": "If the grass is greener on the other side, it might be because you aren't taking care of your own grass.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "contentment",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "en031",
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "language": "en",
+    "categories": [
+      "progress",
+      "balance"
+    ]
+  },
+  {
+    "id": "en032",
+    "text": "Do what is right, not what is easy nor what is popular.",
+    "author": "Roy T. Bennett",
+    "language": "en",
+    "categories": [
+      "generosity",
+      "value"
+    ]
+  },
+  {
+    "id": "en033",
+    "text": "Believing in yourself is the first step to success. If you don't believe in yourself, no one else will.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-belief",
+      "success"
+    ]
+  },
+  {
+    "id": "en034",
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll",
+    "language": "en",
+    "categories": [
+      "attitude",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en035",
+    "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "author": "James Baldwin",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "en036",
+    "text": "Your actions speak louder than your words.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "action",
+      "integrity"
+    ]
+  },
+  {
+    "id": "en037",
+    "text": "The greatest adventure in life is living your dreams.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "adventure"
+    ]
+  },
+  {
+    "id": "en038",
+    "text": "There are no shortcuts to success. Every failure is a stepping stone forward.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "success",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "en039",
+    "text": "Life won't pause while you gather courage to act.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "courage",
+      "action"
+    ]
+  },
+  {
+    "id": "en040",
+    "text": "The most difficult times are when you must not give up. That is when the opportunity for success arises.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "en041",
+    "text": ".True understanding begins only when you experience shared suffering.",
+    "author": "\"Naruto Shippuden\" Nagato (Pain)",
+    "language": "en",
+    "categories": [
+      "empathy",
+      "understanding"
+    ]
+  },
+  {
+    "id": "en042",
+    "text": "If you see someone without a smile, give them yours.",
+    "author": "Dolly Parton",
+    "language": "en",
+    "categories": [
+      "kindness",
+      "positivity"
+    ]
+  },
+  {
+    "id": "en043",
+    "text": "Getting over pain is like crossing monkey bars: you must let go to move forward.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "growth",
+      "letting-go"
+    ]
+  },
+  {
+    "id": "en044",
+    "text": "Every finish line is the starting point of your next journey.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "achievement",
+      "growth"
+    ]
+  },
+  {
+    "id": "en045",
+    "text": "The pain you endure today forges the strength you'll wield tomorrow.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "strength",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en046",
+    "text": "The coward dies a thousand deaths… but the brave? They die unseen.",
+    "author": "Ernest Hemingway",
+    "language": "en",
+    "categories": [
+      "courage",
+      "fear"
+    ]
+  },
+  {
+    "id": "en047",
+    "text": "There are two types of pain in life: the pain of discipline and the pain of regret. Discipline weighs ounces, but regret weighs tons.",
+    "author": "Jim Rohn",
+    "language": "en",
+    "categories": [
+      "discipline",
+      "regret"
+    ]
+  },
+  {
+    "id": "en048",
+    "text": "Consistent small acts of intentional kindness create waves of lasting change.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "consistency",
+      "impact"
+    ]
+  },
+  {
+    "id": "en049",
+    "text": "Human limits are illusions until tested. Yours lie further than you think.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "potential",
+      "limits"
+    ]
+  },
+  {
+    "id": "en050",
+    "text": "Dip your hand in water, then remove it—the space you occupied vanishes instantly. So it is with human indispensability.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "humility",
+      "perspective"
+    ]
+  },
+  {
+    "id": "en051",
+    "text": "Technology is like fish. The longer it stays on the shelf, the less desirable it becomes.",
+    "author": "Andrew Heller",
+    "language": "en",
+    "categories": [
+      "technology",
+      "innovation"
+    ]
+  },
+  {
+    "id": "en052",
+    "text": "A scientist peers into nature's hidden chambers, driven by insatiable curiosity to unravel her secrets.",
+    "author": "Jacques Yves Cousteau",
+    "language": "en",
+    "categories": [
+      "science",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "en053",
+    "text": "We draft our life's manuscript daily—yet too few dare rewrite the painful chapters.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-improvement",
+      "courage"
+    ]
+  },
+  {
+    "id": "en054",
+    "text": "Fear sharpens the mind, but cowardice paralyzes the soul.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "courage",
+      "nature"
+    ]
+  },
+  {
+    "id": "en055",
+    "text": "Art imitates not the mere form, but the inner truth of existence.",
+    "author": "Aristotle",
+    "language": "en",
+    "categories": [
+      "art",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "en056",
+    "text": "Perfection is a desert where creativity dies of thirst.",
+    "author": "Salvador Dali",
+    "language": "en",
+    "categories": [
+      "art",
+      "perfection"
+    ]
+  },
+  {
+    "id": "en057",
+    "text": "The real victory isn't in the score — it's in earning the right to compete.",
+    "author": "Mike Singletary",
+    "language": "en",
+    "categories": [
+      "sports",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "en058",
+    "text": "Success is stumbling from failure to failure with undimmed resolve.",
+    "author": "Winston Churchill",
+    "language": "en",
+    "categories": [
+      "sports",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "en059",
+    "text": "Education is the only valid passport from poverty.",
+    "author": "Lyndon B. Johnson",
+    "language": "en",
+    "categories": [
+      "education",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "en060",
+    "text": "The question of whether machines can think is as irrelevant as whether submarines can swim.",
+    "author": "Edsger Dijkstra",
+    "language": "en",
+    "categories": [
+      "technology",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "en061",
+    "text": "Clean code is a love letter to the next developer who will maintain it.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "technology",
+      "creativity"
+    ]
+  },
+  {
+    "id": "en062",
+    "text": "Compassion is the best medicine for both mental and physical health.",
+    "author": "Dalai Lama",
+    "language": "en",
+    "categories": [
+      "health",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "en063",
+    "text": "Walking is the best medicine, and the oldest one too.",
+    "author": "Hippocrates",
+    "language": "en",
+    "categories": [
+      "health",
+      "exercise"
+    ]
+  },
+  {
+    "id": "en064",
+    "text": "Art is the ability to make the invisible visible.",
+    "author": "Paul Klee",
+    "language": "en",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "en065",
+    "text": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+    "author": "Scott Adams",
+    "language": "en",
+    "categories": [
+      "creativity",
+      "art"
+    ]
+  },
+  {
+    "id": "en066",
+    "text": "In football, we don’t just remember the wins — we cherish the battles.",
+    "author": "Bill Shankly",
+    "language": "en",
+    "categories": [
+      "sports",
+      "effort"
+    ]
+  },
+  {
+    "id": "en067",
+    "text": "Sports mirror life's journey—triumphs, setbacks, and the bonds forged in between.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "sports",
+      "life"
+    ]
+  },
+  {
+    "id": "en068",
+    "text": "The purpose of education is not to fill an empty mind but to free an open one.",
+    "author": "Malcolm Forbes",
+    "language": "en",
+    "categories": [
+      "education",
+      "freedom"
+    ]
+  },
+  {
+    "id": "en069",
+    "text": "Logic will get you from A to B, but imagination will take you anywhere.",
+    "author": "Albert Einstein",
+    "language": "en",
+    "categories": [
+      "technology",
+      "imagination"
+    ]
+  },
+  {
+    "id": "en070",
+    "text": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi",
+    "language": "en",
+    "categories": [
+      "technology",
+      "future"
+    ]
+  },
+  {
+    "id": "en071",
+    "text": "The path less traveled, though strewn with stones, guides us to vistas unseen.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "journey"
+    ]
+  },
+  {
+    "id": "en072",
+    "text": "Knowledge grows by accumulation, wisdom by elimination—discard illusions to see truth.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "health",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en073",
+    "text": "True artists are alchemists — transforming inner visions into tangible beauty.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "en074",
+    "text": "Creativity begins by overcoming fear.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "creativity",
+      "courage"
+    ]
+  },
+  {
+    "id": "en075",
+    "text": "You only discover your limits when you dare to risk falling.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "sports",
+      "challenge"
+    ]
+  },
+  {
+    "id": "en076",
+    "text": "To teach is to learn twice.",
+    "author": "Joseph Joubert",
+    "language": "en",
+    "categories": [
+      "education",
+      "learning"
+    ]
+  },
+  {
+    "id": "en077",
+    "text": "While you are afraid to change, the world is evolving.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "growth",
+      "details"
+    ]
+  },
+  {
+    "id": "en078",
+    "text": "Failure is tuition paid for success's diploma — keep learning, keep earning.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "learning",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en079",
+    "text": "Success isn't a place on a map — it's the wisdom etched into your soul by the journey.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "success",
+      "journey"
+    ]
+  },
+  {
+    "id": "en080",
+    "text": "Losing's acceptable — what's unforgivable is letting defeat dictate your next move.",
+    "author": "\"Haikyuu!!\" Shoyo Hinata",
+    "language": "en",
+    "categories": [
+      "failure",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en081",
+    "text": "True discovery lies not in new observations, but in new thoughts about old truths.",
+    "author": "Schopenhauer/Szent-Györgyi",
+    "language": "en",
+    "categories": [
+      "research",
+      "innovation"
+    ]
+  },
+  {
+    "id": "en082",
+    "text": "Even the darkest night has stars that shine.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "hope",
+      "optimism"
+    ]
+  },
+  {
+    "id": "en083",
+    "text": "Do not fear failure. It is the first step toward success.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "failure",
+      "success"
+    ]
+  },
+  {
+    "id": "en084",
+    "text": "Fear deafens the soul's whispers—listen through the silence of courage.",
+    "author": "Paulo Coelho",
+    "language": "en",
+    "categories": [
+      "peace",
+      "strength"
+    ]
+  },
+  {
+    "id": "en085",
+    "text": "The value of life is not measured by what you receive, but by what you give.",
+    "author": "Wayne Dyer",
+    "language": "en",
+    "categories": [
+      "progress",
+      "balance"
+    ]
+  },
+  {
+    "id": ":en086",
+    "text": "Courage is acting while feeling fear.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "courage",
+      "action"
+    ]
+  },
+  {
+    "id": "en087",
+    "text": "Learning is the result of small daily efforts.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "education",
+      "growth"
+    ]
+  },
+  {
+    "id": "en088",
+    "text": "On match day, you only access what you stored in training.",
+    "author": "Eric Cantona",
+    "language": "en",
+    "categories": [
+      "sports",
+      "preparation"
+    ]
+  },
+  {
+    "id": "en089",
+    "text": "He who has health has hope, and he who has hope has everything.",
+    "author": "Owen Arthur",
+    "language": "en",
+    "categories": [
+      "health",
+      "hope"
+    ]
+  },
+  {
+    "id": "en090",
+    "text": "Art washes away from the soul the dust of everyday life.",
+    "author": "Pablo Picasso",
+    "language": "en",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "en091",
+    "text": "Education is not about emptying the mind but about freeing it.",
+    "author": "Robert Frost",
+    "language": "en",
+    "categories": [
+      "education",
+      "freedom"
+    ]
+  },
+  {
+    "id": "en092",
+    "text": "Sports do not build character; they reveal it.",
+    "author": "Heywood Broun",
+    "language": "en",
+    "categories": [
+      "sports",
+      "character"
+    ]
+  },
+  {
+    "id": ":en093",
+    "text": "A single flap of a butterfly’s wings can stir a hurricane—so too can one act ignite global change.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "action",
+      "impact"
+    ]
+  },
+  {
+    "id": "en094",
+    "text": "Success is no accident. It is born of effort, patience, and learning.",
+    "author": "Pele",
+    "language": "en",
+    "categories": [
+      "future",
+      "action"
+    ]
+  },
+  {
+    "id": "en095",
+    "text": "The harder you work, the luckier you get.",
+    "author": "Gary Player",
+    "language": "en",
+    "categories": [
+      "effort",
+      "luck"
+    ]
+  },
+  {
+    "id": "en096",
+    "text": "The last of human freedoms is the ability to choose one's attitude in any given set of circumstances.",
+    "author": "Viktor Frankl",
+    "language": "en",
+    "categories": [
+      "freedom",
+      "attitude"
+    ]
+  },
+  {
+    "id": "en097",
+    "text": "Creativity takes courage.",
+    "author": "Henri Matisse",
+    "language": "en",
+    "categories": [
+      "creativity",
+      "courage"
+    ]
+  },
+  {
+    "id": "en098",
+    "text": "Design is not just what it looks like; it's how it works.",
+    "author": "Steve Jobs",
+    "language": "en",
+    "categories": [
+      "design",
+      "functionality"
+    ]
+  },
+  {
+    "id": "en099",
+    "text": "Failure is an option. If you’re not failing, you’re not innovating enough.",
+    "author": "Elon Musk",
+    "language": "en",
+    "categories": [
+      "failure",
+      "innovation"
+    ]
+  },
+  {
+    "id": "en100",
+    "text": "Quality means doing it right when no one is looking.",
+    "author": "Henry Ford",
+    "language": "en",
+    "categories": [
+      "quality",
+      "integrity"
+    ]
+  },
+  {
+    "id": "en101",
+    "text": "We cannot become what we need to be by remaining what we are.",
+    "author": "Max De Pree",
+    "language": "en",
+    "categories": [
+      "growth",
+      "change"
+    ]
+  },
+  {
+    "id": ":en102",
+    "text": "Imagination is the only boundary between you and the impossible.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "potential",
+      "imagination"
+    ]
+  },
+  {
+    "id": ":en103",
+    "text": "'Impossible' is either a wall or a springboard — your choice redefines life.",
+    "author": "Takuya Kimura",
+    "language": "en",
+    "categories": [
+      "potential",
+      "mindset",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en104",
+    "text": "Seek reasons to persist, not excuses to quit.",
+    "author": "Kazuyoshi Miura",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "motivation",
+      "goals"
+    ]
+  },
+  {
+    "id": ":en105",
+    "text": "Balance intensity with ease — but never ease up on intensity.",
+    "author": "Koshi Inaba (B'z)",
+    "language": "en",
+    "categories": [
+      "work",
+      "balance",
+      "effort"
+    ]
+  },
+  {
+    "id": ":en106",
+    "text": "In despair, we feel isolated—yet our deepest scars birth profound empathy.",
+    "author": "Tsuyoshi Domoto",
+    "language": "en",
+    "categories": [
+      "kindness",
+      "compassion",
+      "humanity"
+    ]
+  },
+  {
+    "id": ":en107",
+    "text": "Effort builds invisible bridges — destiny names them opportunity.",
+    "author": "Takashi Okamura",
+    "language": "en",
+    "categories": [
+      "destiny",
+      "effort",
+      "opportunity"
+    ]
+  },
+  {
+    "id": ":en108",
+    "text": "The only doping I ever did was hard work.",
+    "author": "Diego Maradona",
+    "language": "en",
+    "categories": [
+      "effort",
+      "sports",
+      "dedication"
+    ]
+  },
+  {
+    "id": ":en109",
+    "text": "Daily self-conquest — pushing limits, battling doubts — forges dreamers into achievers.",
+    "author": "J.Y.Park",
+    "language": "en",
+    "categories": [
+      "self-discipline",
+      "dreams",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en110",
+    "text": "Tension is growing pain — embrace it as life sculpting your best self.",
+    "author": "ROLAND",
+    "language": "en",
+    "categories": [
+      "growth",
+      "mindset",
+      "challenges"
+    ]
+  },
+  {
+    "id": ":en111",
+    "text": "What defines a life well-lived is the depth of one's compassion.",
+    "author": "Ken Takakura",
+    "language": "en",
+    "categories": [
+      "life",
+      "heart",
+      "values"
+    ]
+  },
+  {
+    "id": ":en112",
+    "text": "Speak your truth boldly — if doors close, pivot with humor to new horizons.",
+    "author": "Atsugiri Jason",
+    "language": "en",
+    "categories": [
+      "communication",
+      "honesty",
+      "adaptability"
+    ]
+  },
+  {
+    "id": ":en113",
+    "text": "True courage lies not in persistence, but in discerning when to redirect your energy.",
+    "author": "Hugh Laurie",
+    "language": "en",
+    "categories": [
+      "courage",
+      "success",
+      "decisions"
+    ]
+  },
+  {
+    "id": ":en114",
+    "text": "Strength blooms when you acknowledge the edges of your potential.",
+    "author": "Keanu Reeves",
+    "language": "en",
+    "categories": [
+      "strength",
+      "self-awareness",
+      "limits"
+    ]
+  },
+  {
+    "id": ":en115",
+    "text": "Kindness is the light that outshines life's darkest corners.",
+    "author": "Robin Williams",
+    "language": "en",
+    "categories": [
+      "kindness",
+      "life",
+      "values"
+    ]
+  },
+  {
+    "id": ":en116",
+    "text": "Discipline fuels dreams — it’s the bridge between vision and victory.",
+    "author": "Will Smith",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "courage",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en117",
+    "text": "Action without design is noise — commit to intentional creation.",
+    "author": "Steve Jobs",
+    "language": "en",
+    "categories": [
+      "action",
+      "determination",
+      "change"
+    ]
+  },
+  {
+    "id": ":en118",
+    "text": "The most important thing in life is to live according to your own values, not the expectations of others.",
+    "author": "Stevie Wonder",
+    "language": "en",
+    "categories": [
+      "authenticity",
+      "values",
+      "life"
+    ]
+  },
+  {
+    "id": ":en119",
+    "text": "Failures are tuition payments for mastery’s diploma.",
+    "author": "LeBron James",
+    "language": "en",
+    "categories": [
+      "failure",
+      "growth",
+      "acceptance"
+    ]
+  },
+  {
+    "id": ":en120",
+    "text": "Realism tames potential — extraordinary lives demand unreasonable dreams.",
+    "author": "Will Smith",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "reality",
+      "extraordinary"
+    ]
+  },
+  {
+    "id": ":en121",
+    "text": "Success isn’t a sprint — it’s a marathon where persistence outpaces raw talent.",
+    "author": "Dax Shepard",
+    "language": "en",
+    "categories": [
+      "success",
+      "perseverance",
+      "talent"
+    ]
+  },
+  {
+    "id": ":en122",
+    "text": "If you pray for rain, you have to deal with the mud too. That's part of it.",
+    "author": "Denzel Washington",
+    "language": "en",
+    "categories": [
+      "preparation",
+      "reality",
+      "consequences"
+    ]
+  },
+  {
+    "id": ":en123",
+    "text": "The greatest rebellion is proving the impossible possible.",
+    "author": "James Baldwin",
+    "language": "en",
+    "categories": [
+      "challenge",
+      "innovation",
+      "courage"
+    ]
+  },
+  {
+    "id": ":en124",
+    "text": "True strength is forged in the fires of adversity — each challenge a crucible for growth.",
+    "author": "Leonardo DiCaprio",
+    "language": "en",
+    "categories": [
+      "strength",
+      "challenges",
+      "growth"
+    ]
+  },
+  {
+    "id": ":en125",
+    "text": "Dreams don't become reality through magic. They take sweat, determination, and hard work.",
+    "author": "Colin Powell",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "effort",
+      "determination"
+    ]
+  },
+  {
+    "id": ":en126",
+    "text": "It's never too late to reinvent yourself.",
+    "author": "Steve Harvey",
+    "language": "en",
+    "categories": [
+      "reinvention",
+      "change",
+      "growth"
+    ]
+  },
+  {
+    "id": ":en127",
+    "text": "Pain is unavoidable. It's a perfect opportunity for growth.",
+    "author": "Romany Malco",
+    "language": "en",
+    "categories": [
+      "pain",
+      "growth",
+      "opportunity"
+    ]
+  },
+  {
+    "id": ":en128",
+    "text": "Critics are the compass pointing to success’s true north.",
+    "author": "Malcolm X",
+    "language": "en",
+    "categories": [
+      "criticism",
+      "success",
+      "growth"
+    ]
+  },
+  {
+    "id": ":en129",
+    "text": "As long as they spell your name right, don't worry about bad publicity.",
+    "author": "Clark Gable",
+    "language": "en",
+    "categories": [
+      "reputation",
+      "confidence",
+      "criticism"
+    ]
+  },
+  {
+    "id": ":en130",
+    "text": "Be the change you wish to see — legacy is built by those who dare to act.",
+    "author": "Barack Obama",
+    "language": "en",
+    "categories": [
+      "change",
+      "purpose",
+      "impact"
+    ]
+  },
+  {
+    "id": ":en131",
+    "text": "Your self - worth is determined by you. You don't need anyone's validation to define your value.",
+    "author": "Beyoncé",
+    "language": "en",
+    "categories": [
+      "self-worth",
+      "empowerment",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":en132",
+    "text": "Never let others steer your dreams — ignite your own fire and chase what sets your soul ablaze.",
+    "author": "Rihanna",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "authenticity",
+      "self-motivation"
+    ]
+  },
+  {
+    "id": ":en133",
+    "text": "Strength isn't just in muscles — it's the resilience to shatter ceilings and own your legacy.",
+    "author": "Serena Williams",
+    "language": "en",
+    "categories": [
+      "identity",
+      "strength",
+      "pride"
+    ]
+  },
+  {
+    "id": ":en134",
+    "text": "True freedom blooms when you confront fears and embrace your most authentic self.",
+    "author": "Oprah Winfrey",
+    "language": "en",
+    "categories": [
+      "fear",
+      "freedom",
+      "courage"
+    ]
+  },
+  {
+    "id": ":en135",
+    "text": "Kindness in the face of storms becomes the legacy that outshines temporary battles.",
+    "author": "Taylor Swift",
+    "language": "en",
+    "categories": [
+      "kindness",
+      "legacy",
+      "character"
+    ]
+  },
+  {
+    "id": ":en136",
+    "text": "Wholeness lies in embracing every scar and strength — they're the mosaic of your humanity.",
+    "author": "Alicia Keys",
+    "language": "en",
+    "categories": [
+      "vulnerability",
+      "strength",
+      "wholeness"
+    ]
+  },
+  {
+    "id": ":en137",
+    "text": "Failure isn't a full stop — it's the comma that leads to your next bold chapter.",
+    "author": "Queen Latifah",
+    "language": "en",
+    "categories": [
+      "failure",
+      "growth",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en138",
+    "text": "Your worth is a sonic universe — amplify it fearlessly in a world tuned to monotony.",
+    "author": "Björk",
+    "language": "en",
+    "categories": [
+      "self-worth",
+      "courage",
+      "empowerment"
+    ]
+  },
+  {
+    "id": ":en139",
+    "text": "The ultimate rebellion? Choosing your dreams over society's scripted fantasies.",
+    "author": "Lady Gaga",
+    "language": "en",
+    "categories": [
+      "dreams",
+      "expectations",
+      "choice"
+    ]
+  },
+  {
+    "id": ":en140",
+    "text": "Perfection is a boring myth — my power lies in the raw, unfiltered notes of my journey.",
+    "author": "Adele",
+    "language": "en",
+    "categories": [
+      "imperfection",
+      "strength",
+      "self-acceptance"
+    ]
+  },
+  {
+    "id": ":en141",
+    "text": "Confronting fear isn’t about condoning violence — it’s about exposing truths to spark redemption.",
+    "author": "Kathryn Bigelow",
+    "language": "en",
+    "categories": [
+      "challenges",
+      "mindset",
+      "courage"
+    ]
+  },
+  {
+    "id": ":en142",
+    "text": "Art saved me from suicide — it’s the weapon I wield to turn hallucinations into hope.",
+    "author": "Yayoi Kusama",
+    "language": "en",
+    "categories": [
+      "art",
+      "freedom",
+      "expression"
+    ]
+  },
+  {
+    "id": ":en143",
+    "text": "Stories make us feel seen — craft yours relentlessly, for they ripple through generations.",
+    "author": "Greta Gerwig",
+    "language": "en",
+    "categories": [
+      "voice",
+      "change",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en144",
+    "text": "You’re so enough it’s unbelievable — own that truth louder than anyone’s doubt.",
+    "author": "Lizzo",
+    "language": "en",
+    "categories": [
+      "authenticity",
+      "self-perception",
+      "feelings"
+    ]
+  },
+  {
+    "id": ":en145",
+    "text": "Turn your melancholy into melody — there’s power in the poetry of imperfection.",
+    "author": "Lana Del Rey",
+    "language": "en",
+    "categories": [
+      "pride",
+      "art",
+      "empowerment"
+    ]
+  },
+  {
+    "id": ":en146",
+    "text": "One book, one pen, one girl — ignite a revolution that outshines extremism.",
+    "author": "Malala Yousafzai",
+    "language": "en",
+    "categories": [
+      "unity",
+      "education",
+      "peace"
+    ]
+  },
+  {
+    "id": ":en147",
+    "text": "In a world that demands conformity, your uniqueness is the script only you can write.",
+    "author": "Meryl Streep",
+    "language": "en",
+    "categories": [
+      "difference",
+      "strength",
+      "uniqueness"
+    ]
+  },
+  {
+    "id": ":en148",
+    "text": "When they try to shrink your light, shine brighter — your power lies in unwavering integrity.",
+    "author": "Michelle Obama",
+    "language": "en",
+    "categories": [
+      "self-belief",
+      "focus",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":en149",
+    "text": "Loving yourself is the beginning of everything.",
+    "author": "Lucille Ball",
+    "language": "en",
+    "categories": [
+      "self-love",
+      "beginnings",
+      "foundation"
+    ]
+  },
+  {
+    "id": ":en150",
+    "text": "Your vote is your voice — wield it fiercely to protect democracy’s fragile flame.",
+    "author": "Kamala Harris",
+    "language": "en",
+    "categories": [
+      "voice",
+      "courage",
+      "importance"
+    ]
+  },
+  {
+    "id": ":en151",
+    "text": "Women are already strong — feminism’s mission is to shift how the world perceives that strength.",
+    "author": "G.D. Anderson",
+    "language": "en",
+    "categories": [
+      "strength",
+      "proof",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":en152",
+    "text": "Rebel against society’s scripts — your authenticity is your ultimate artwork.",
+    "author": "Lady Gaga",
+    "language": "en",
+    "categories": [
+      "authenticity",
+      "expectations",
+      "self-purpose"
+    ]
+  },
+  {
+    "id": ":en153",
+    "text": "Yesterday is but today's memory, and tomorrow is today's dream.",
+    "author": "Kahlil Gibran",
+    "language": "en",
+    "categories": [
+      "time",
+      "present",
+      "perspective"
+    ]
+  },
+  {
+    "id": ":en154",
+    "text": "Develop a passion for learning. If you do, you will never cease to grow.",
+    "author": "Anthony J. D'Angelo",
+    "language": "en",
+    "categories": [
+      "learning",
+      "passion",
+      "growth"
+    ]
+  },
+  {
+    "id": ":en155",
+    "text": "Without you, my life doesn't seem real. It only becomes real when you're there, becoming part of my life, and when I'm sharing it with you.",
+    "author": "Gilmore Girls",
+    "language": "en",
+    "categories": [
+      "love",
+      "reality",
+      "relationships"
+    ]
+  },
+  {
+    "id": ":en156",
+    "text": "Each dawn writes a new chapter — yesterday’s wisdom can’t decode today’s riddles.",
+    "author": "Because This Is My First Life",
+    "language": "en",
+    "categories": [
+      "experience",
+      "knowledge",
+      "humility"
+    ]
+  },
+  {
+    "id": ":en157",
+    "text": "Every encounter is a universe colliding — their past, present, and future now orbit yours.",
+    "author": "Because This Is My First Life",
+    "language": "en",
+    "categories": [
+      "relationships",
+      "life",
+      "perspective"
+    ]
+  },
+  {
+    "id": ":en158",
+    "text": "Happiness isn’t in grand events — it’s in sunlit classrooms and scribbled notes we overlooked.",
+    "author": "Our Beloved Summer",
+    "language": "en",
+    "categories": [
+      "perspective",
+      "self-awareness",
+      "appreciation"
+    ]
+  },
+  {
+    "id": ":en159",
+    "text": "When running, maintaining your pace is very important. If it's hard, you can slow down. Just don't give up. As an adult, you can do that much, right?",
+    "author": "Run On",
+    "language": "en",
+    "categories": [
+      "perseverance",
+      "pace",
+      "resilience"
+    ]
+  },
+  {
+    "id": ":en160",
+    "text": "Tides ebb and flow—cling not to what recedes, but dance with what washes ashore.",
+    "author": "Because This Is My First Life",
+    "language": "en",
+    "categories": [
+      "acceptance",
+      "change",
+      "life"
+    ]
+  },
+  {
+    "id": ":en161",
+    "text": "The moments I spent with you were shining. Because the weather was good, because the weather was bad, and because the weather was good enough. I loved every moment.",
+    "author": "When the Weather is Fine",
+    "language": "en",
+    "categories": [
+      "love",
+      "appreciation",
+      "moments"
+    ]
+  },
+  {
+    "id": ":en162",
+    "text": "Good things sometimes happen to good people too.",
+    "author": "Hospital Playlist S2",
+    "language": "en",
+    "categories": [
+      "positivity",
+      "karma",
+      "hope"
+    ]
+  },
+  {
+    "id": ":en163",
+    "text": "Emotions are like living things. If you ignore them, they grow out of control. Especially hatred. It continues to grow, feeding on memories.",
+    "author": "More Than Friends",
+    "language": "en",
+    "categories": [
+      "emotions",
+      "hatred",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": ":en164",
+    "text": "Being bad at something is just the first step to being a little better at it.",
+    "author": "Adventure Time",
+    "language": "en",
+    "categories": [
+      "improvement",
+      "beginnings",
+      "growth"
+    ]
+  },
+  {
+    "id": ":en165",
+    "text": "Not everything is a lesson. Sometimes you just fail.",
+    "author": "The Office",
+    "language": "en",
+    "categories": [
+      "failure",
+      "reality",
+      "acceptance"
+    ]
+  },
+  {
+    "id": ":en166",
+    "text": "Don't give up hope just because it seems hopeless! You need to hope even more!",
+    "author": "Futurama",
+    "language": "en",
+    "categories": [
+      "hope",
+      "perseverance",
+      "optimism"
+    ]
+  },
+  {
+    "id": ":en167",
+    "text": "Strength is about fighting. It's hard and it hurts and it's every day. It's what we have to do, and we can do it together.",
+    "author": "Buffy the Vampire Slayer",
+    "language": "en",
+    "categories": [
+      "strength",
+      "perseverance",
+      "unity"
+    ]
+  },
+  {
+    "id": ":en168",
+    "text": "Don't apologize, just be confident.",
+    "author": "RuPaul's Drag Race",
+    "language": "en",
+    "categories": [
+      "confidence",
+      "self-esteem",
+      "pride"
+    ]
+  },
+  {
+    "id": ":en169",
+    "text": "Never forget what you are. The world will not. Wear it like armor, and it can never be used to hurt you.",
+    "author": "Game of Thrones",
+    "language": "en",
+    "categories": [
+      "identity",
+      "self-awareness",
+      "strength"
+    ]
+  },
+  {
+    "id": ":en170",
+    "text": "When traveling, people accept everything. They leave their anger at home.",
+    "author": "Elias Canetti",
+    "language": "en",
+    "categories": [
+      "travel",
+      "acceptance",
+      "mindset"
+    ]
+  },
+  {
+    "id": ":en171",
+    "text": "Nothing evokes childlike wonder like being in a country where you know almost nothing. Suddenly, you feel like a five-year-old again.",
+    "author": "Bill Bryson",
+    "language": "en",
+    "categories": [
+      "travel",
+      "wonder",
+      "discovery"
+    ]
+  },
+  {
+    "id": ":en172",
+    "text": "Maybe you need to leave a place to truly miss it.",
+    "author": "Jodi Picoult",
+    "language": "en",
+    "categories": [
+      "nostalgia",
+      "absence",
+      "appreciation"
+    ]
+  },
+  {
+    "id": ":en173",
+    "text": "The essence of human nature is to come together.",
+    "author": "The Walking Dead",
+    "language": "en",
+    "categories": [
+      "humanity",
+      "connection",
+      "community"
+    ]
+  },
+  {
+    "id": ":en174",
+    "text": "More is lost by indecision than by wrong decisions.",
+    "author": "The Sopranos",
+    "language": "en",
+    "categories": [
+      "decision",
+      "indecision",
+      "action"
+    ]
+  },
+  {
+    "id": ":en175",
+    "text": "Sometimes, knowing which bridges to cross and which to burn is the most difficult thing in life.",
+    "author": "The International",
+    "language": "en",
+    "categories": [
+      "decisions",
+      "life",
+      "choices"
+    ]
+  },
+  {
+    "id": ":en176",
+    "text": "Experience is a harsh teacher. First comes the test, then the lesson.",
+    "author": "The Crown",
+    "language": "en",
+    "categories": [
+      "experience",
+      "lessons",
+      "life"
+    ]
+  },
+  {
+    "id": ":en177",
+    "text": "Any man who must say 'I am the king' is no true king.",
+    "author": "Game of Thrones",
+    "language": "en",
+    "categories": [
+      "leadership",
+      "power",
+      "authenticity"
+    ]
+  },
+  {
+    "id": ":en178",
+    "text": "If you work hard, you'll be rewarded someday. If not, either your way of working is wrong or your employer is. In that case, you should just get out of there.",
+    "author": "Natsuzora",
+    "language": "en",
+    "categories": [
+      "work",
+      "reward",
+      "self-respect"
+    ]
+  },
+  {
+    "id": ":en179",
+    "text": "The things you really want to know in life aren't on the internet! That's the point!",
+    "author": "Overprotective Kahoko",
+    "language": "en",
+    "categories": [
+      "life",
+      "experience",
+      "knowledge"
+    ]
+  },
+  {
+    "id": ":en180",
+    "text": "No matter how tough it gets, make sure you sleep well, eat well, and don't let go of the hand of the person you love.",
+    "author": "Overprotective Kahoko",
+    "language": "en",
+    "categories": [
+      "self-care",
+      "love",
+      "resilience"
+    ]
+  },
+  {
+    "id": ":en181",
+    "text": "There's no mother who doesn't have regrets in raising children. In the end, you just have to be prepared. Believe that even if your child falls, they will get up. It's harder to believe than to love.",
+    "author": "Overprotective Kahoko",
+    "language": "en",
+    "categories": [
+      "parenting",
+      "trust",
+      "love"
+    ]
+  },
+  {
+    "id": ":en182",
+    "text": "What's important is gratitude and giving back. A future without these two is just a selfish daydream.",
+    "author": "Hanzawa Naoki",
+    "language": "en",
+    "categories": [
+      "gratitude",
+      "reciprocity",
+      "future"
+    ]
+  },
+  {
+    "id": ":en183",
+    "text": "There are times when you can only think about yourself.",
+    "author": "There's a Limit to Inappropriateness!",
+    "language": "en",
+    "categories": [
+      "self-focus",
+      "honesty",
+      "humanity"
+    ]
+  },
+  {
+    "id": ":en184",
+    "text": "Those kids will create the future 30 or 40 years from now.",
+    "author": "There's a Limit to Inappropriateness!",
+    "language": "en",
+    "categories": [
+      "future",
+      "youth",
+      "responsibility"
+    ]
+  },
+  {
+    "id": ":en185",
+    "text": "There isn't just one truth. There are as many truths as there are people. But there's only one 'fact'.",
+    "author": "Don't Call It Mystery",
+    "language": "en",
+    "categories": [
+      "truth",
+      "perspective",
+      "facts"
+    ]
+  },
+  {
+    "id": ":en186",
+    "text": "Instead of complaining about the darkness, you should be the one to light a candle.",
+    "author": "Mother Teresa",
+    "language": "en",
+    "categories": [
+      "action",
+      "positivity",
+      "initiative"
+    ]
+  },
+  {
+    "id": ":en187",
+    "text": "To live is not to breathe, but to act.",
+    "author": "Jean-Jacques Rousseau",
+    "language": "en",
+    "categories": [
+      "life",
+      "action",
+      "purpose"
+    ]
+  },
+  {
+    "id": ":en188",
+    "text": "You have to change your own world.",
+    "author": "Nodame Cantabile",
+    "language": "en",
+    "categories": [
+      "change",
+      "responsibility",
+      "self-empowerment"
+    ]
+  },
+  {
+    "id": ":en189",
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein",
+    "language": "en",
+    "categories": [
+      "imagination",
+      "knowledge",
+      "creativity"
+    ]
+  },
+  {
+    "id": ":en190",
+    "text": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "author": "Amelia Earhart",
+    "language": "en",
+    "categories": [
+      "action",
+      "decision",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":en191",
+    "text": "Everything you want is on the other side of fear.",
+    "author": "George Addair",
+    "language": "en",
+    "categories": [
+      "fear",
+      "desire",
+      "courage"
+    ]
+  },
+  {
+    "id": "en192",
+    "text": "Feeling lazy can lead to finding better ways to do things.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "efficiency",
+      "motivation"
+    ]
+  },
+  {
+    "id": "en193",
+    "text": "Before thinking too much, gather information and find someone who has already succeeded.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "learning",
+      "strategy"
+    ]
+  },
+  {
+    "id": "en194",
+    "text": "Without facts and data, it’s not a real opinion.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "objectivity",
+      "opinion"
+    ]
+  },
+  {
+    "id": "en195",
+    "text": "'I’m stupid'—saying this as an excuse will make you believe it and stop trying.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-awareness",
+      "growth"
+    ]
+  },
+  {
+    "id": "en196",
+    "text": "Debate is about sharing ideas and proving your logic to others.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "debate",
+      "logic"
+    ]
+  },
+  {
+    "id": "en197",
+    "text": "Make sure your effort is in the right direction, so it doesn’t turn into wasted struggle.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "effort",
+      "direction"
+    ]
+  },
+  {
+    "id": "en198",
+    "text": "Don’t give up on what you can’t do. Use what you can do to make up for it.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "adaptability"
+    ]
+  },
+  {
+    "id": "en199",
+    "text": "If your opinion has weak points, others won’t see it as a real opinion.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "opinion",
+      "critical-thinking"
+    ]
+  },
+  {
+    "id": "en200",
+    "text": "Admitting your lack of skill and reflecting on it is already a big step toward growth.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-awareness",
+      "growth"
+    ]
+  },
+  {
+    "id": "en201",
+    "text": "If you have no skills, you won’t care. But with average skills, you might focus only on what you can do and feel overconfident.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-awareness",
+      "humility"
+    ]
+  },
+  {
+    "id": "en202",
+    "text": "I have no talent. That’s why I must become stronger.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "motivation",
+      "strength"
+    ]
+  },
+  {
+    "id": "en203",
+    "text": "So work hard, learn, and gain experience.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "effort",
+      "learning",
+      "experience"
+    ]
+  },
+  {
+    "id": "en204",
+    "text": "I don’t have time to doubt myself because I have no talent.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "motivation",
+      "self-confidence"
+    ]
+  },
+  {
+    "id": "en205",
+    "text": "If sacrifice is needed, I won’t hesitate to make it.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "sacrifice",
+      "determination"
+    ]
+  },
+  {
+    "id": "en206",
+    "text": "Time cannot be bought with money. Just do what you can.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "time-management",
+      "mindset"
+    ]
+  },
+  {
+    "id": "en207",
+    "text": "You feel like giving up? It happens to everyone.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "en208",
+    "text": "Curiosity is what matters. If you have curiosity, you’ll be fine.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "curiosity",
+      "growth"
+    ]
+  },
+  {
+    "id": "en209",
+    "text": "Don’t get angry at your age. It’s not worth it.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "anger-management",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en210",
+    "text": "Anger only brings harm. It shortens your life and makes no one feel good. Patience is a virtue.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "anger-management",
+      "patience"
+    ]
+  },
+  {
+    "id": "en211",
+    "text": "People who discriminate based on status or position are not smart. Logic doesn’t work on them.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "equality",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en212",
+    "text": "Don’t just criticize. If you say something isn’t interesting, explain what is.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "criticism",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "en213",
+    "text": "Don’t be the kind of person who does nothing but complains. Take responsibility for your words.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-awareness",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "en214",
+    "text": "When you fail and inconvenience others, you lose something important: trust. Nothing is more valuable in relationships.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "trust",
+      "relationships"
+    ]
+  },
+  {
+    "id": "en215",
+    "text": "Even if you’re forgiven for failing, trust is still lost. Think of it as someone trading their trust to forgive your failure.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "trust",
+      "forgiveness"
+    ]
+  },
+  {
+    "id": "en216",
+    "text": "When trust is lost, it’s easy to focus on your mistakes. But to regain trust, focus on the good qualities that earned it before.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "trust",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "en217",
+    "text": "‘Oh well, that’s just me.’ Even your weaknesses are chances to grow. Keep going until you can accept them.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-acceptance",
+      "growth"
+    ]
+  },
+  {
+    "id": "en218",
+    "text": "If you make a mistake, let others correct you. Learn from it and use that knowledge next time.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "learning",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "en219",
+    "text": "Don’t rely only on motivation—make it a habit.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "motivation",
+      "habits"
+    ]
+  },
+  {
+    "id": "en220",
+    "text": "People who joke around under stress are often hiding their lack of confidence.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "stress-management",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": "en221",
+    "text": "There’s no need for power struggles. As women, we can be tough and smart, and work toward peace through discussion.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "peace",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en222",
+    "text": "Don’t worry. You decide your destiny. There’s no right answer in life. Even if you lose your way, what matters is not losing yourself. Be wise, be strong, and live honestly.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "self-determination",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "en223",
+    "text": "I gave you the chance to build a kingdom, but you wasted it sleeping. Do you know how much I sleep? Two hours.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "hard-work",
+      "determination"
+    ]
+  },
+  {
+    "id": "en224",
+    "text": "I want to live to the fullest. Every day, I want to achieve something, even if it’s small. Don’t be lazy.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "motivation",
+      "life"
+    ]
+  },
+  {
+    "id": "en225",
+    "text": "It’s ridiculous. You won’t find your calling online. Your true purpose is within yourself. Supergirl isn’t a hero because she can fly—it’s because she’s needed.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "self-discovery",
+      "purpose"
+    ]
+  },
+  {
+    "id": "en226",
+    "text": "Look within yourself. Find out what you should do in life. Don’t rely on silly online quizzes.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "self-awareness",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "en227",
+    "text": "Most people spend much of their time alone. That’s why, when tragedy strikes, they seek not just rescue but also comfort and stability.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "loneliness",
+      "support"
+    ]
+  },
+  {
+    "id": "en228",
+    "text": "You seem like you’re about to give up. But it happens to everyone. Talk to a doctor and get antidepressants—they can help.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "mental-health",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "en229",
+    "text": "I can’t just comfort you and say it’s okay. It’s not easy, but it’s not impossible. Reflect, rise again, and make your failure meaningful. It takes time, but you can regain the trust of the town. I believe in you.",
+    "author": "Super Girl",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "trust"
+    ]
+  },
+  {
+    "id": "en230",
+    "text": "You don’t gain power to achieve something. You seek and use power because you want to achieve something. Your will is too weak.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "strength",
+      "determination"
+    ]
+  },
+  {
+    "id": "en231",
+    "text": "If you don’t know something, look it up yourself. No one will help you. Search online—don’t be someone who always asks others for answers.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-reliance",
+      "learning"
+    ]
+  },
+  {
+    "id": "en232",
+    "text": "'Ask-for-help people' are those who always want others to do things for them because they don’t want to do it themselves.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-reliance",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "en233",
+    "text": "The walls you overcome will become the walls that protect you when you look back.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "growth"
+    ]
+  },
+  {
+    "id": "en234",
+    "text": "Failure isn’t the problem—it’s the belief that you can’t do it. Losing courage is the real issue.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "failure",
+      "mindset",
+      "courage"
+    ]
+  },
+  {
+    "id": "en235",
+    "text": "‘The process matters more than the result’—adults realize this is a lie. People only care about results.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "results",
+      "reality"
+    ]
+  },
+  {
+    "id": "en236",
+    "text": "Make promises to yourself, trust yourself, and keep those promises. That’s how true confidence is built.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "confidence",
+      "self-trust"
+    ]
+  },
+  {
+    "id": "en237",
+    "text": "Set goals you can achieve. Continuing to make an effort is about keeping promises to yourself.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "goals",
+      "effort"
+    ]
+  },
+  {
+    "id": "en238",
+    "text": "'I have no talent' or 'I’m just ordinary'—saying these means you’re okay with staying the same and avoiding effort.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "mindset",
+      "effort"
+    ]
+  },
+  {
+    "id": "en239",
+    "text": "If you think ‘I can’t do it because it’s risky,’ it probably means it’s not worth doing. If you’re not willing to give up what you have, then that’s the truth.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "risk",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "en240",
+    "text": "People who make excuses and don’t act are just wasting time. But for them, it might feel logical.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "excuses",
+      "action"
+    ]
+  },
+  {
+    "id": "en241",
+    "text": "Saying you lack experience and confidence is just an excuse to protect your pride and avoid change. What good comes from finding reasons you can’t do something?",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "excuses",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "en242",
+    "text": "Overthinking makes you miss opportunities. Even asking someone out becomes harder when you overthink.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "overthinking",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "en243",
+    "text": "Humans are weak. We all make excuses to comfort ourselves. Losing hurts, but the pain fades after losing again and again.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "weakness",
+      "excuses"
+    ]
+  },
+  {
+    "id": "en244",
+    "text": "Do your best, even if you expect to lose. That’s what separates winners from losers.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "effort",
+      "mindset",
+      "success"
+    ]
+  },
+  {
+    "id": "en245",
+    "text": "Don’t rely on others before taking the first step yourself.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "self-reliance",
+      "action"
+    ]
+  },
+  {
+    "id": "en246",
+    "text": "Think about whether doing this will harm you. If not, act first and regret later—it’s better than doing nothing.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "action",
+      "decision-making",
+      "regret"
+    ]
+  },
+  {
+    "id": "en247",
+    "text": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+    "author": "C.S. Lewis",
+    "language": "en",
+    "categories": [
+      "change",
+      "future",
+      "action",
+      "hope"
+    ]
+  },
+  {
+    "id": "en248",
+    "text": "Be like a tree and shed your dead leaves: Let go of what's unnecessary and past attachments, and focus on new growth.",
+    "author": "Rumi",
+    "language": "en",
+    "categories": [
+      "change",
+      "growth",
+      "letting-go"
+    ]
+  },
+  {
+    "id": "en249",
+    "text": "When life gives you lemons, make lemonade: Even when faced with difficulties and adversity, you must transform them into something positive.",
+    "author": "American Proverb",
+    "language": "en",
+    "categories": [
+      "adversity",
+      "optimism",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en250",
+    "text": "Close some doors today. Not because of pride, incapacity or arrogance, but simply because they lead nowhere: Unfruitful relationships and efforts need to be cut off with courage.",
+    "author": "Paulo Coelho",
+    "language": "en",
+    "categories": [
+      "decision-making",
+      "change",
+      "letting-go"
+    ]
+  },
+  {
+    "id": "en251",
+    "text": "Life is not a problem to be solved, but a reality to be experienced: Rather than trying to solve life's problems, it's important to accept them as experiences.",
+    "author": "Søren Kierkegaard",
+    "language": "en",
+    "categories": [
+      "life",
+      "experience",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "en252",
+    "text": "Don't bite the hand that feeds you: You should be grateful to those who help you and not cause them harm.",
+    "author": "English Proverb",
+    "language": "en",
+    "categories": [
+      "gratitude",
+      "relationships",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en253",
+    "text": "In life, you get what you have the courage to ask for: It's important to take active steps toward your desires and goals.",
+    "author": "Oprah Winfrey",
+    "language": "en",
+    "categories": [
+      "courage",
+      "action",
+      "success"
+    ]
+  },
+  {
+    "id": "en254",
+    "text": "Better safe than sorry: By acting cautiously in advance, you can prevent regret.",
+    "author": "English Proverb",
+    "language": "en",
+    "categories": [
+      "caution",
+      "wisdom",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "en255",
+    "text": "Curiosity killed the cat: Excessive curiosity or prying can sometimes lead to danger, so caution is necessary.",
+    "author": "English Proverb",
+    "language": "en",
+    "categories": [
+      "caution",
+      "curiosity",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "en256",
+    "text": "Life is like a camera: Focus on the good times, develop from the negatives, and if things don't work out, take another shot.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "life",
+      "perspective",
+      "resilience"
+    ]
+  },
+  {
+    "id": "en257",
+    "text": "Mistakes are proof that you are trying: Continuing to challenge yourself without fear of failure leads to growth.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "mistakes",
+      "growth",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "en258",
+    "text": "Don't count your chickens before they hatch: Be careful not to have excessive expectations or make too many plans before results are in.",
+    "author": "English Proverb",
+    "language": "en",
+    "categories": [
+      "caution",
+      "expectations",
+      "planning"
+    ]
+  },
+  {
+    "id": "en259",
+    "text": "Failure is not the opposite of success. It's part of success: Failure is a process toward success and should be accepted rather than avoided.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "failure",
+      "success",
+      "growth"
+    ]
+  },
+  {
+    "id": "en260",
+    "text": "You miss 100% of the shots you don't take: Taking action is essential for success.",
+    "author": "Wayne Gretzky",
+    "language": "en",
+    "categories": [
+      "action",
+      "opportunity",
+      "success"
+    ]
+  },
+  {
+    "id": "en261",
+    "text": "Life isn't about waiting for the storm to pass, but learning to dance in the rain: Even in difficult situations, it's important to find joy and live positively.",
+    "author": "Unknown",
+    "language": "en",
+    "categories": [
+      "resilience",
+      "positivity",
+      "adversity"
+    ]
+  },
+  {
+    "id": "en262",
+    "text": "Nothing is impossible. The word itself says 'I'm possible!': Just as 'I'm possible' is found within the word 'impossible', it's important to believe in the possibility of things that seem impossible.",
+    "author": "Audrey Hepburn",
+    "language": "en",
+    "categories": [
+      "possibility",
+      "motivation",
+      "optimism"
+    ]
+  }
+]

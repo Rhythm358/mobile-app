@@ -1,0 +1,2750 @@
+[
+  {
+    "id": "ja001",
+    "text": "小さなことが重要なのだ。小さなことが大きなことを実現させる。",
+    "author": "ジョン・ウッデン",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "details"
+    ]
+  },
+  {
+    "id": "ja002",
+    "text": "私は決して負けない。勝つか、学ぶかのどちらかだ。",
+    "author": "ネルソン・マンデラ",
+    "language": "ja",
+    "categories": [
+      "learning",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja003",
+    "text": "私の考えは、口と指先を通過するときに解きほぐされる。",
+    "author": "ドーソン・トロットマン",
+    "language": "ja",
+    "categories": [
+      "creativity",
+      "expression"
+    ]
+  },
+  {
+    "id": "ja004",
+    "text": "努力は才能を凌駕する。才能があっても努力しなければ意味がない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "success",
+      "work"
+    ]
+  },
+  {
+    "id": "ja005",
+    "text": "あなたがより良くなるべき唯一の人物は、昨日のあなた自身だ",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-improvement",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja006",
+    "text": "成功への鍵は、行動する勇気と失敗を受け入れる心だ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "belief",
+      "action"
+    ]
+  },
+  {
+    "id": "ja007",
+    "text": "諦めることが私たちの最大の弱点だ。成功する最も確実な方法は、もう一度だけ挑戦することだ。",
+    "author": "トーマス・エジソン",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "ja008",
+    "text": "あまりにも遠くまで行くリスクを冒す人だけが、どこまで行けるかを知ることができる。",
+    "author": "T・S・エリオット",
+    "language": "ja",
+    "categories": [
+      "risk",
+      "potential"
+    ]
+  },
+  {
+    "id": "ja009",
+    "text": "目が見えないことより悪いのは、視力はあるのに視野がないことだ。",
+    "author": "ヘレン・ケラー",
+    "language": "ja",
+    "categories": [
+      "perspective",
+      "vision"
+    ]
+  },
+  {
+    "id": "ja010",
+    "text": "先に進む秘訣は、始めることだ。",
+    "author": "マーク・トウェイン",
+    "language": "ja",
+    "categories": [
+      "beginning",
+      "action"
+    ]
+  },
+  {
+    "id": "ja011",
+    "text": "真の高貴さとは、以前の自分より優れていることだ。",
+    "author": "アーネスト・ヘミングウェイ",
+    "language": "ja",
+    "categories": [
+      "self-improvement",
+      "nobility"
+    ]
+  },
+  {
+    "id": "ja012",
+    "text": "自分自身を笑える日に、あなたは大人になる。",
+    "author": "エセル・バリモア",
+    "language": "ja",
+    "categories": [
+      "humor",
+      "maturity"
+    ]
+  },
+  {
+    "id": "ja013",
+    "text": "世界で最も強いものは優しさだ。",
+    "author": "ハン・スーイン",
+    "language": "ja",
+    "categories": [
+      "kindness",
+      "strength"
+    ]
+  },
+  {
+    "id": "ja014",
+    "text": "シャワーを浴びた人は誰でもアイデアを持っている。シャワーから出て、体を拭いてそれを実行する人が違いを生み出す。",
+    "author": "ノーラン・ブッシュネル",
+    "language": "ja",
+    "categories": [
+      "action",
+      "ideas"
+    ]
+  },
+  {
+    "id": "ja015",
+    "text": "他人が投げつけてきたレンガで強固な基盤を築ける人が成功者だ。",
+    "author": "デビッド・ブリンクリー",
+    "language": "ja",
+    "categories": [
+      "resilience",
+      "success"
+    ]
+  },
+  {
+    "id": "ja016",
+    "text": "すべての進歩は快適ゾーンの外で起こる。",
+    "author": "マイケル・ジョン・ボバック",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "ja017",
+    "text": "謎は驚きを生み、驚きは人間が理解したいという欲求の基礎となる。",
+    "author": "ニール・アームストロング",
+    "language": "ja",
+    "categories": [
+      "curiosity",
+      "understanding"
+    ]
+  },
+  {
+    "id": "ja018",
+    "text": "幸せになりたいなら、幸せになりなさい。",
+    "author": "レフ・トルストイ",
+    "language": "ja",
+    "categories": [
+      "happiness",
+      "simplicity"
+    ]
+  },
+  {
+    "id": "ja019",
+    "text": "私たちが全て自分にできることをやれば、文字通り自分自身に驚くだろう。",
+    "author": "トーマス・エジソン",
+    "language": "ja",
+    "categories": [
+      "potential",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "ja020",
+    "text": "楽観主義は真の道徳的勇気である。",
+    "author": "アーネスト・シャクルトン",
+    "language": "ja",
+    "categories": [
+      "optimism",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja021",
+    "text": "いつか飛ぶことを学びたい者は、まず立ち、歩き、走り、登り、踊ることを学ばなければならない。飛びながら飛ぶことはできない。",
+    "author": "フリードリヒ・ニーチェ",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "patience"
+    ]
+  },
+  {
+    "id": "ja022",
+    "text": "辞書の中で、成功の前に来る唯一の言葉は「労働」だ。",
+    "author": "ヴィダル・サスーン",
+    "language": "ja",
+    "categories": [
+      "success",
+      "work"
+    ]
+  },
+  {
+    "id": "ja023",
+    "text": "昨日の自分より優れた人間になることだけを目指しなさい。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-improvement",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja024",
+    "text": "失敗することが不可能であるかのように信じ、行動しなさい。",
+    "author": "チャールズ・ケタリング",
+    "language": "ja",
+    "categories": [
+      "belief",
+      "action"
+    ]
+  },
+  {
+    "id": "ja025",
+    "text": "平和とは紛争がないことではなく、それに対処する能力のことだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "peace",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja026",
+    "text": "毎日、正しい方向へ小さな一歩を踏み出すことができる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "progress",
+      "consistency"
+    ]
+  },
+  {
+    "id": "ja027",
+    "text": "人生で最も素晴らしいものの中には目に見えないものがある。だからこそ、キスをするとき、泣くとき、夢を見るときに目を閉じるのだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "perspective",
+      "emotion"
+    ]
+  },
+  {
+    "id": "ja028",
+    "text": "雲の向こう側には明るい青空がある。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "hope",
+      "optimism"
+    ]
+  },
+  {
+    "id": "ja029",
+    "text": "嵐は永遠には続かない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "hope",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja030",
+    "text": "もし向こう側の草が青々としているなら、それはあなたが自分の草の世話をしていないからかもしれない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "contentment",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "ja031",
+    "text": "人生は自転車のようなものだ。バランスを保つには動き続けなければならない。",
+    "author": "アルバート・アインシュタイン",
+    "language": "ja",
+    "categories": [
+      "progress",
+      "balance"
+    ]
+  },
+  {
+    "id": "ja032",
+    "text": "簡単なことや人気のあることではなく、正しいことをしなさい。",
+    "author": "Roy T. Bennett",
+    "language": "ja",
+    "categories": [
+      "generosity",
+      "value"
+    ]
+  },
+  {
+    "id": "ja033",
+    "text": "自分自身を信じることは、成功への第一歩である。自分を信じないなら、誰も信じてくれない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-belief",
+      "success"
+    ]
+  },
+  {
+    "id": "ja034",
+    "text": "人生は10%があなたに起こることで、90%があなたがそれにどう反応するかだ。",
+    "author": "チャールズ・R・スウィンドール",
+    "language": "ja",
+    "categories": [
+      "attitude",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja035",
+    "text": "直面するすべてが変えられるわけではないが、直面しなければ何も変わらない。",
+    "author": "James Baldwin",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "success"
+    ]
+  },
+  {
+    "id": "ja036",
+    "text": "あなたの行動が、あなたの言葉よりも大きな声で語る。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "action",
+      "integrity"
+    ]
+  },
+  {
+    "id": "ja037",
+    "text": "人生最大の冒険は、自分の夢を生きることだ。",
+    "author": "オプラ・ウィンフリー",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ja038",
+    "text": "成功への道のりに近道はない。成功は失敗という名の遠回りを経て訪れる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "success",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "ja039",
+    "text": "人生は、あなたが勇気を持つまで待ってはくれない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "courage",
+      "action"
+    ]
+  },
+  {
+    "id": "ja040",
+    "text": "最も困難な時こそ、諦めてはいけない。それこそが成功するチャンスなのだから。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ja041",
+    "text": "痛みを分かち合わなければ、人を理解することはできない。",
+    "author": "ナルト疾風伝 長門（ペイン）",
+    "language": "ja",
+    "categories": [
+      "empathy",
+      "understanding"
+    ]
+  },
+  {
+    "id": "ja042",
+    "text": "笑顔のない人を見かけたら、あなたの笑顔を分けてあげなさい。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "kindness",
+      "positivity"
+    ]
+  },
+  {
+    "id": "ja043",
+    "text": "痛みを伴う経験を乗り越えることは、うんていを渡るようなものだ。前に進むためには、いつかは手を離さなければならない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "letting-go"
+    ]
+  },
+  {
+    "id": "ja044",
+    "text": "ゴールラインは、新しいレースの始まりに過ぎない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "achievement",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja045",
+    "text": "今日の痛みは明日の力になる。今日苦しめば苦しむほど、明日はより強くなる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "strength",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja046",
+    "text": "臆病者は千回死に、勇者はただ一度死ぬ。",
+    "author": "アーネスト・ヘミングウェイ",
+    "language": "ja",
+    "categories": [
+      "courage",
+      "fear"
+    ]
+  },
+  {
+    "id": "ja047",
+    "text": "人生には二種類の痛みがある。規律の痛みと後悔の痛みだ。規律はオンス単位の重さだが、後悔はトン単位の重さがある。",
+    "author": "ジム・ローン",
+    "language": "ja",
+    "categories": [
+      "discipline",
+      "regret"
+    ]
+  },
+  {
+    "id": "ja048",
+    "text": "心からの小さな行いを一貫して続けることが、最大の影響を与える。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "consistency",
+      "impact"
+    ]
+  },
+  {
+    "id": "ja049",
+    "text": "私たちは皆限界を持っている。しかしほとんどの人はその限界に到達していない。あなたは確実に到達していない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "potential",
+      "limits"
+    ]
+  },
+  {
+    "id": "ja050",
+    "text": "指を水の入ったバケツに入れて、それから取り出してみなさい。残った穴が、あなたがいなくなった時にどれだけ恋しく思われるかを表している。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "humility",
+      "perspective"
+    ]
+  },
+  {
+    "id": "ja051",
+    "text": "テクノロジーは魚のようなものだ。棚に置いておく時間が長くなるほど、魅力がなくなる。",
+    "author": "アンドリュー・ヘラー",
+    "language": "ja",
+    "categories": [
+      "technology",
+      "innovation"
+    ]
+  },
+  {
+    "id": "ja052",
+    "text": "科学者とは、自然という鍵穴を覗き込みながら何が起きているのかを知ろうとする好奇心旺盛な人間だ。",
+    "author": "ジャック・イヴ・クストー",
+    "language": "ja",
+    "categories": [
+      "science",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ja053",
+    "text": "誰もが自分の人生の作家である。だが、多くの人は自分の物語を編集する勇気を持たない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "health",
+      "hope"
+    ]
+  },
+  {
+    "id": "ja054",
+    "text": "恐怖はその使い道があるが、臆病には何の価値もない。",
+    "author": "ガンディー",
+    "language": "ja",
+    "categories": [
+      "health",
+      "nature"
+    ]
+  },
+  {
+    "id": "ja055",
+    "text": "芸術の目的は物事の外見ではなく、その内面的な意義を表現することだ。",
+    "author": "アリストテレス",
+    "language": "ja",
+    "categories": [
+      "art",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "ja056",
+    "text": "完璧を恐れるな。どうせ到達できないのだから。",
+    "author": "サルバドール・ダリ",
+    "language": "ja",
+    "categories": [
+      "art",
+      "perfection"
+    ]
+  },
+  {
+    "id": "ja057",
+    "text": "ゲームで一番好きな部分は何か？それはプレイする機会だ。",
+    "author": "マイク・シングレタリー",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ja058",
+    "text": "成功とは、失敗から失敗へと情熱を失わずに進むことである。",
+    "author": "ウィンストン・チャーチル",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "ja059",
+    "text": "教育とは問題ではなく、機会である。",
+    "author": "リンドン・ジョンソン",
+    "language": "ja",
+    "categories": [
+      "education",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ja060",
+    "text": "コンピューターは非常に速く正確で愚かだ。人間は非常に遅く不正確で賢い。二人が力を合わせれば、信じられないほどの力を発揮する。",
+    "author": "アルバート・アインシュタイン",
+    "language": "ja",
+    "categories": [
+      "technology",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "ja061",
+    "text": "コードを書くことは、問題を解決するための詩を書くようなものだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "technology",
+      "creativity"
+    ]
+  },
+  {
+    "id": "ja062",
+    "text": "心の健康は、身体の健康と同じくらい重要だ。それを無視してはいけない。",
+    "author": "ダライ・ラマ",
+    "language": "ja",
+    "categories": [
+      "health",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "ja063",
+    "text": "歩くことは、最も古くて最も素晴らしい薬だ。",
+    "author": "ヒポクラテス",
+    "language": "ja",
+    "categories": [
+      "health",
+      "exercise"
+    ]
+  },
+  {
+    "id": "ja064",
+    "text": "芸術とは、目に見えないものを見えるようにする力だ。",
+    "author": "ポール・クレー",
+    "language": "ja",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "ja065",
+    "text": "創造性は、間違いを犯すことを許すことだ。芸術とは、それらの間違いを選び取ることだ。",
+    "author": "スコット・アダムス",
+    "language": "ja",
+    "categories": [
+      "creativity",
+      "art"
+    ]
+  },
+  {
+    "id": "ja066",
+    "text": "勝利は一瞬だが、努力は永遠に続く。",
+    "author": "ビル・シャンクリー",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "effort"
+    ]
+  },
+  {
+    "id": "ja067",
+    "text": "スポーツは人生の縮図だ。それには勝利と敗北があり、努力と友情がある。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "life"
+    ]
+  },
+  {
+    "id": "ja068",
+    "text": "教育の目的は、空っぽの心を開き詰め込むことではなく、開かれた心を自由にすることだ。",
+    "author": "マルコム・フォーブス",
+    "language": "ja",
+    "categories": [
+      "education",
+      "freedom"
+    ]
+  },
+  {
+    "id": "ja069",
+    "text": "論理はAからBへ連れて行ってくれるが、想像力はどこへでも連れて行ってくれる。",
+    "author": "アルバート・アインシュタイン",
+    "language": "ja",
+    "categories": [
+      "technology",
+      "imagination"
+    ]
+  },
+  {
+    "id": "ja070",
+    "text": "未来とは、あなたが今日何をするかによって形作られる。",
+    "author": "マハトマ・ガンジー",
+    "language": "ja",
+    "categories": [
+      "technology",
+      "future"
+    ]
+  },
+  {
+    "id": "ja071",
+    "text": "困難な道はしばしば美しい目的地に通じている。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "health",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja072",
+    "text": "知識を得ることは毎日の学びであり、知恵を得ることは毎日の手放しである。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "health",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja073",
+    "text": "芸術家とは、自分の心の中にある世界を現実に引き出す人だ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "ja074",
+    "text": "創造性は恐怖を超えることから始まる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "creativity",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja075",
+    "text": "滑ったことがない人は、限界まで挑戦したことがない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "challenge"
+    ]
+  },
+  {
+    "id": "ja076",
+    "text": "教えることは二度学ぶことである。",
+    "author": "ジョセフ・ジュベール",
+    "language": "ja",
+    "categories": [
+      "education",
+      "learning"
+    ]
+  },
+  {
+    "id": "ja077",
+    "text": "あなたが変わることを恐れている間に、世界は進化している。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "details"
+    ]
+  },
+  {
+    "id": "ja078",
+    "text": "失敗しても学び続ける者が最終的に勝者となる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "learning",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja079",
+    "text": "成功とは最終目的地ではなく、その過程で学ぶことだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "success",
+      "journey"
+    ]
+  },
+  {
+    "id": "ja080",
+    "text": "失敗したっていいじゃないか。やり直せばいいだけだ。",
+    "author": "ハイキュー!! 日向翔陽",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja081",
+    "text": "研究とは、誰もが見ているものを見て、誰も考えたことがないことを考えることだ。",
+    "author": "アルバート・セント＝ジョルジ",
+    "language": "ja",
+    "categories": [
+      "research",
+      "innovation"
+    ]
+  },
+  {
+    "id": "ja082",
+    "text": "最も暗い夜でさえ、星が輝く。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "hope",
+      "optimism"
+    ]
+  },
+  {
+    "id": "ja083",
+    "text": "失敗することを恐れるな。それは成功への第一歩だ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "success"
+    ]
+  },
+  {
+    "id": "ja084",
+    "text": "恐怖に屈してはいけない。そうすると心と話すことができなくなる。",
+    "author": "パウロ・コエーリョ",
+    "language": "ja",
+    "categories": [
+      "peace",
+      "strength"
+    ]
+  },
+  {
+    "id": "ja085",
+    "text": "人生の価値は、あなたが受け取ったもので測るのではなく、あなたが与えたもので測る。",
+    "author": "ウェイン・ダイアー",
+    "language": "ja",
+    "categories": [
+      "progress",
+      "balance"
+    ]
+  },
+  {
+    "id": ":ja086",
+    "text": "勇気とは、恐怖を感じながらも行動することだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "courage",
+      "action"
+    ]
+  },
+  {
+    "id": "ja087",
+    "text": "学びとは毎日の小さな努力である。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "education",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja088",
+    "text": "準備はすべてであり、集中が鍵だ。試合当日に全力を尽くしたと言うのは簡単だが、準備していればもっと良いプレーができた。",
+    "author": "エリック・カントナ",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "preparation"
+    ]
+  },
+  {
+    "id": "ja089",
+    "text": "健康がある者には希望があり、希望がある者にはすべてがある。",
+    "author": "オーウェン・アーサー",
+    "language": "ja",
+    "categories": [
+      "health",
+      "hope"
+    ]
+  },
+  {
+    "id": "ja090",
+    "text": "芸術は心から日常生活のほこりを洗い流す。",
+    "author": "パブロ・ピカソ",
+    "language": "ja",
+    "categories": [
+      "art",
+      "expression"
+    ]
+  },
+  {
+    "id": "ja091",
+    "text": "教育とは心を空っぽにすることではなく、自由にすることだ。",
+    "author": "ロバート・フロスト",
+    "language": "ja",
+    "categories": [
+      "education",
+      "freedom"
+    ]
+  },
+  {
+    "id": "ja092",
+    "text": "スポーツは性格を形成するのではなく、それを明らかにする。",
+    "author": "ヘイウッド・ブラウン",
+    "language": "ja",
+    "categories": [
+      "sports",
+      "character"
+    ]
+  },
+  {
+    "id": ":ja093",
+    "text": "どんなに小さな行動でも、それが世界を変える可能性を秘めている。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "action",
+      "impact"
+    ]
+  },
+  {
+    "id": "ja094",
+    "text": "成功は偶然ではない。それは努力、忍耐、そして学びから生まれる。",
+    "author": "ペレ",
+    "language": "ja",
+    "categories": [
+      "future",
+      "action"
+    ]
+  },
+  {
+    "id": "ja095",
+    "text": "努力すればするほど運が良くなる。",
+    "author": "ゲイリー・プレイヤー",
+    "language": "ja",
+    "categories": [
+      "effort",
+      "luck"
+    ]
+  },
+  {
+    "id": "ja096",
+    "text": "人間最後の自由は、どんな状況においても態度を選ぶ能力である。",
+    "author": "ヴィクトール・フランクル",
+    "language": "ja",
+    "categories": [
+      "freedom",
+      "attitude"
+    ]
+  },
+  {
+    "id": "ja097",
+    "text": "創造性には勇気が必要だ。",
+    "author": "アンリ・マティス",
+    "language": "ja",
+    "categories": [
+      "creativity",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja098",
+    "text": "デザインとは見た目ではなく、それがどのように機能するかである。",
+    "author": "スティーブ・ジョブズ",
+    "language": "ja",
+    "categories": [
+      "design",
+      "functionality"
+    ]
+  },
+  {
+    "id": "ja099",
+    "text": "失敗は選択肢だ。失敗がなければ、十分に革新していない証拠だ。",
+    "author": "イーロン・マスク",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "innovation"
+    ]
+  },
+  {
+    "id": "ja100",
+    "text": "品質とは、誰も見ていないときに正しく行うことだ。",
+    "author": "ヘンリー・フォード",
+    "language": "ja",
+    "categories": [
+      "quality",
+      "integrity"
+    ]
+  },
+  {
+    "id": "ja101",
+    "text": "私たちはなりたい自分になるために、今の自分であり続けることはできない。",
+    "author": "マックス・デプレ",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "change"
+    ]
+  },
+  {
+    "id": ":ja102",
+    "text": "あなたの制限は、あなたの想像力だけだ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "potential",
+      "imagination"
+    ]
+  },
+  {
+    "id": ":ja103",
+    "text": "無理という言葉を壁と思うかバネと思うか、それだけで人生は大きく変わる。",
+    "author": "木村拓哉",
+    "language": "ja",
+    "categories": [
+      "potential",
+      "mindset",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja104",
+    "text": "あきらめる理由を探すんじゃなくて、あきらめない理由を探せ。",
+    "author": "三浦知良",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "motivation",
+      "goals"
+    ]
+  },
+  {
+    "id": ":ja105",
+    "text": "力は抜いて、手は抜かない。",
+    "author": "稲葉浩志（B'z）",
+    "language": "ja",
+    "categories": [
+      "work",
+      "balance",
+      "effort"
+    ]
+  },
+  {
+    "id": ":ja106",
+    "text": "人間は追い詰められると、自分は独りだと勘違いする癖がある。自分の傷が痛む時ほど、人にやさしくしてあげて下さい。",
+    "author": "堂本剛",
+    "language": "ja",
+    "categories": [
+      "kindness",
+      "compassion",
+      "humanity"
+    ]
+  },
+  {
+    "id": ":ja107",
+    "text": "運命とは努力した人に偶然と言う名の架け橋を与えてくれる。",
+    "author": "岡村隆史",
+    "language": "ja",
+    "categories": [
+      "destiny",
+      "effort",
+      "opportunity"
+    ]
+  },
+  {
+    "id": ":ja108",
+    "text": "俺がやったドーピングは努力だけだ。",
+    "author": "ディエゴ・マラドーナ",
+    "language": "ja",
+    "categories": [
+      "effort",
+      "sports",
+      "dedication"
+    ]
+  },
+  {
+    "id": ":ja109",
+    "text": "自分自身にムチを打って、自分自身と戦って、毎日自分に勝てる人が夢を叶えられます。",
+    "author": "J.Y.Park",
+    "language": "ja",
+    "categories": [
+      "self-discipline",
+      "dreams",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja110",
+    "text": "緊張って苦しいかもしれないけど、成長痛みたいなもの。今その瞬間を大事にしたほうがいい。",
+    "author": "ROLAND",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "mindset",
+      "challenges"
+    ]
+  },
+  {
+    "id": ":ja111",
+    "text": "人生で大事なものはたった1つ、心です。",
+    "author": "高倉健",
+    "language": "ja",
+    "categories": [
+      "life",
+      "heart",
+      "values"
+    ]
+  },
+  {
+    "id": ":ja112",
+    "text": "話してみて、本音を伝えること。ダメだったら早めに諦めて、次を考える。",
+    "author": "厚切りジェイ",
+    "language": "ja",
+    "categories": [
+      "communication",
+      "honesty",
+      "adaptability"
+    ]
+  },
+  {
+    "id": ":ja113",
+    "text": "止める勇気を持つことが、次の成功への鍵になる。",
+    "author": "ヒュー・ローリー",
+    "language": "ja",
+    "categories": [
+      "courage",
+      "success",
+      "decisions"
+    ]
+  },
+  {
+    "id": ":ja114",
+    "text": "自分の限界を知ることで、本当の強さが見えてくる。",
+    "author": "キアヌ・リーブス",
+    "language": "ja",
+    "categories": [
+      "strength",
+      "self-awareness",
+      "limits"
+    ]
+  },
+  {
+    "id": ":ja115",
+    "text": "人生で最も重要なのは、他人に親切であることだ。",
+    "author": "ロビン・ウィリアムズ",
+    "language": "ja",
+    "categories": [
+      "kindness",
+      "life",
+      "values"
+    ]
+  },
+  {
+    "id": ":ja116",
+    "text": "夢を追い続ける勇気があれば、どんな障害も乗り越えられる。",
+    "author": "ウィル・スミス",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "courage",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja117",
+    "text": "覚悟を決めて行動することで、すべてが変わる。",
+    "author": "スティーブ・ジョブズ",
+    "language": "ja",
+    "categories": [
+      "action",
+      "determination",
+      "change"
+    ]
+  },
+  {
+    "id": ":ja118",
+    "text": "人生で最も重要なのは、他人の期待ではなく、自分自身の価値観に基づいて生きることだ。",
+    "author": "スティーヴィー・ワンダー",
+    "language": "ja",
+    "categories": [
+      "authenticity",
+      "values",
+      "life"
+    ]
+  },
+  {
+    "id": ":ja119",
+    "text": "あなたが失敗を受け入れることができれば、より良くなるための道が開ける。",
+    "author": "レブロン・ジェームズ",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "growth",
+      "acceptance"
+    ]
+  },
+  {
+    "id": ":ja120",
+    "text": "現実的であることは、平凡への最も一般的な道だ。",
+    "author": "ウィル・スミス",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "reality",
+      "extraordinary"
+    ]
+  },
+  {
+    "id": ":ja121",
+    "text": "成功とは、ただ長く続けることだ。才能も必要だが、粘り強さが鍵だ。",
+    "author": "ダックス・シェパード",
+    "language": "ja",
+    "categories": [
+      "success",
+      "perseverance",
+      "talent"
+    ]
+  },
+  {
+    "id": ":ja122",
+    "text": "雨を祈るなら、その泥にも向き合う覚悟を持て。それも一部だ。",
+    "author": "デンゼル・ワシントン",
+    "language": "ja",
+    "categories": [
+      "preparation",
+      "reality",
+      "consequences"
+    ]
+  },
+  {
+    "id": ":ja123",
+    "text": "人々ができないと言うことほど、やってみる価値があるものはない。",
+    "author": "ジェームズ・ボールドウィン",
+    "language": "ja",
+    "categories": [
+      "challenge",
+      "innovation",
+      "courage"
+    ]
+  },
+  {
+    "id": ":ja124",
+    "text": "強さとは困難を乗り越えることで得られるものだ。それは障害ではなく、踏み台だ。",
+    "author": "レオナルド・ディカプリオ",
+    "language": "ja",
+    "categories": [
+      "strength",
+      "challenges",
+      "growth"
+    ]
+  },
+  {
+    "id": ":ja125",
+    "text": "夢は魔法で実現するものではない。それには汗と決意、そして努力が必要だ。",
+    "author": "コリン・パウエル",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "effort",
+      "determination"
+    ]
+  },
+  {
+    "id": ":ja126",
+    "text": "自分自身を再発明するのに遅すぎるということはない。",
+    "author": "スティーブ・ハーヴィー",
+    "language": "ja",
+    "categories": [
+      "reinvention",
+      "change",
+      "growth"
+    ]
+  },
+  {
+    "id": ":ja127",
+    "text": "痛みは避けられない。それは成長のための絶好の機会だ。",
+    "author": "ロマニー・マルコ",
+    "language": "ja",
+    "categories": [
+      "pain",
+      "growth",
+      "opportunity"
+    ]
+  },
+  {
+    "id": ":ja128",
+    "text": "批判がなければ成功もない。",
+    "author": "マルコム・X",
+    "language": "ja",
+    "categories": [
+      "criticism",
+      "success",
+      "growth"
+    ]
+  },
+  {
+    "id": ":ja129",
+    "text": "自分の名前が正しく書かれていれば、悪評なんて気にするな。",
+    "author": "クラーク・ゲーブル",
+    "language": "ja",
+    "categories": [
+      "reputation",
+      "confidence",
+      "criticism"
+    ]
+  },
+  {
+    "id": ":ja130",
+    "text": "人生で最も重要なのは、自分が変化を起こす存在になることだ。",
+    "author": "バラク・オバマ",
+    "language": "ja",
+    "categories": [
+      "change",
+      "purpose",
+      "impact"
+    ]
+  },
+  {
+    "id": ":ja131",
+    "text": "自分の価値は自分で決めるもの。他人に決めさせてはならない。",
+    "author": "ビヨンセ",
+    "language": "ja",
+    "categories": [
+      "self-worth",
+      "empowerment",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":ja132",
+    "text": "夢を追いかけることをやめないで。誰かのためではなく、自分のために。",
+    "author": "リアーナ",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "authenticity",
+      "self-motivation"
+    ]
+  },
+  {
+    "id": ":ja133",
+    "text": "私は強い女性であることを誇りに思う。それが私のアイデンティティの一部だから。",
+    "author": "セリーナ・ウィリアムズ",
+    "language": "ja",
+    "categories": [
+      "identity",
+      "strength",
+      "pride"
+    ]
+  },
+  {
+    "id": ":ja134",
+    "text": "恐れを克服することで、私たちは本当に自由になれる。",
+    "author": "オプラ・ウィンフリー",
+    "language": "ja",
+    "categories": [
+      "fear",
+      "freedom",
+      "courage"
+    ]
+  },
+  {
+    "id": ":ja135",
+    "text": "何が起きても、人に優しくすること。それが素晴らしい遺産になる。",
+    "author": "テイラー・スウィフト",
+    "language": "ja",
+    "categories": [
+      "kindness",
+      "legacy",
+      "character"
+    ]
+  },
+  {
+    "id": ":ja136",
+    "text": "私は弱さと強さの両方を受け入れる。それが私を完全な人間にするから。",
+    "author": "アリシア・キーズ",
+    "language": "ja",
+    "categories": [
+      "vulnerability",
+      "strength",
+      "wholeness"
+    ]
+  },
+  {
+    "id": ":ja137",
+    "text": "失敗はあなたが成長するためのステップ。挑戦し続けて。",
+    "author": "クイーン・ラティファ",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "growth",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja138",
+    "text": "自分の価値を知り、それを求めることを恐れないで。",
+    "author": "ビョーク",
+    "language": "ja",
+    "categories": [
+      "self-worth",
+      "courage",
+      "empowerment"
+    ]
+  },
+  {
+    "id": ":ja139",
+    "text": "自分の夢を追いかけるか、他人の期待に従うかは自分次第。",
+    "author": "レディー・ガガ",
+    "language": "ja",
+    "categories": [
+      "dreams",
+      "expectations",
+      "choice"
+    ]
+  },
+  {
+    "id": ":ja140",
+    "text": "私は完璧ではない。でも、それが私の力だと気づいた。",
+    "author": "アデル",
+    "language": "ja",
+    "categories": [
+      "imperfection",
+      "strength",
+      "self-acceptance"
+    ]
+  },
+  {
+    "id": ":ja141",
+    "text": "恐れや抵抗に直面しても、それを障害ではなく挑戦として受け入れる。",
+    "author": "キャスリン・ビグロー",
+    "language": "ja",
+    "categories": [
+      "challenges",
+      "mindset",
+      "courage"
+    ]
+  },
+  {
+    "id": ":ja142",
+    "text": "アートは心の自由への道だ。それは誰にも奪われない。",
+    "author": "草間彌生",
+    "language": "ja",
+    "categories": [
+      "art",
+      "freedom",
+      "expression"
+    ]
+  },
+  {
+    "id": ":ja143",
+    "text": "諦めないで。あなたの声は世界を変える力を持っている。",
+    "author": "グレタ・ガーウィグ",
+    "language": "ja",
+    "categories": [
+      "voice",
+      "change",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja144",
+    "text": "自分がどう見られるかではなく、自分がどう感じるかが重要だ。",
+    "author": "リゾ",
+    "language": "ja",
+    "categories": [
+      "authenticity",
+      "self-perception",
+      "feelings"
+    ]
+  },
+  {
+    "id": ":ja145",
+    "text": "自分のアートや人生に誇りを持ちなさい。それがあなたの力になる。",
+    "author": "ラナ・デル・レイ",
+    "language": "ja",
+    "categories": [
+      "pride",
+      "art",
+      "empowerment"
+    ]
+  },
+  {
+    "id": ":ja146",
+    "text": "女性たちが団結し、教育され、情報を共有することで、この世界に平和と繁栄をもたらすことができる。",
+    "author": "マララ・ユスフザイ",
+    "language": "ja",
+    "categories": [
+      "unity",
+      "education",
+      "peace"
+    ]
+  },
+  {
+    "id": ":ja147",
+    "text": "あなたが違うからといって、それが間違っているわけではない。それがあなたの強さだ。",
+    "author": "メリル・ストリープ",
+    "language": "ja",
+    "categories": [
+      "difference",
+      "strength",
+      "uniqueness"
+    ]
+  },
+  {
+    "id": ":ja148",
+    "text": "自分の力を信じて、周りの声に惑わされないで。",
+    "author": "ミシェル・オバマ",
+    "language": "ja",
+    "categories": [
+      "self-belief",
+      "focus",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":ja149",
+    "text": "自分を愛することがすべての始まりだ。",
+    "author": "ルシル・ボール",
+    "language": "ja",
+    "categories": [
+      "self-love",
+      "beginnings",
+      "foundation"
+    ]
+  },
+  {
+    "id": ":ja150",
+    "text": "あなたの声は重要だ。それを使うことを恐れないで。",
+    "author": "カマラ・ハリス",
+    "language": "ja",
+    "categories": [
+      "voice",
+      "courage",
+      "importance"
+    ]
+  },
+  {
+    "id": ":ja151",
+    "text": "私たちはすでに強い。ただ、それを世界に証明する必要があるだけだ。",
+    "author": "G.D.アンダーソン",
+    "language": "ja",
+    "categories": [
+      "strength",
+      "proof",
+      "confidence"
+    ]
+  },
+  {
+    "id": ":ja152",
+    "text": "他人の期待に応えるためではなく、自分のために生きるべきだ。",
+    "author": "レディー・ガガ",
+    "language": "ja",
+    "categories": [
+      "authenticity",
+      "expectations",
+      "self-purpose"
+    ]
+  },
+  {
+    "id": ":ja153",
+    "text": "昨日は今日の記憶に過ぎず、明日は今日の夢に過ぎない。",
+    "author": "カリール・ジブラーン",
+    "language": "ja",
+    "categories": [
+      "time",
+      "present",
+      "perspective"
+    ]
+  },
+  {
+    "id": ":ja154",
+    "text": "学ぶことに情熱を持て。そうすれば、あなたは決して成長をやめることはない。",
+    "author": "アンソニー・J・ダンジェロ",
+    "language": "ja",
+    "categories": [
+      "learning",
+      "passion",
+      "growth"
+    ]
+  },
+  {
+    "id": ":ja155",
+    "text": "あなたがいなければ、私の人生は現実のものとは思えない。あなたがそこにいて、私の人生の一部となり、あなたと共有しているときだけ現実になる。",
+    "author": "ギルモア・ガールズ",
+    "language": "ja",
+    "categories": [
+      "love",
+      "reality",
+      "relationships"
+    ]
+  },
+  {
+    "id": ":ja156",
+    "text": "ただ昨日を生きたからといって、今日のすべてを知っているわけではない。",
+    "author": "Because This Is My First Life",
+    "language": "ja",
+    "categories": [
+      "experience",
+      "knowledge",
+      "humility"
+    ]
+  },
+  {
+    "id": ":ja157",
+    "text": "人が来るということは、実は途方もないことなんだ。なぜなら、その人の人生すべてが一緒に来るからだ。",
+    "author": "Because This Is My First Life",
+    "language": "ja",
+    "categories": [
+      "relationships",
+      "life",
+      "perspective"
+    ]
+  },
+  {
+    "id": ":ja158",
+    "text": "自分の人生はつまらないと思っていた。でも実際は、いつも素晴らしい瞬間があった。自分の人生を惨めに見せていたのは、自分自身だけだった。",
+    "author": "Our Beloved Summer",
+    "language": "ja",
+    "categories": [
+      "perspective",
+      "self-awareness",
+      "appreciation"
+    ]
+  },
+  {
+    "id": ":ja159",
+    "text": "走るときはペースを維持することがとても重要だ。苦しければ速度を落としてもいい。ただ、諦めないで。大人ならそれくらいできるでしょう？",
+    "author": "Run On",
+    "language": "ja",
+    "categories": [
+      "perseverance",
+      "pace",
+      "resilience"
+    ]
+  },
+  {
+    "id": ":ja160",
+    "text": "波のように、ただ流れていくものもあれば、砕けるものもある。それはただ起こることなんだ。",
+    "author": "Because This Is My First Life",
+    "language": "ja",
+    "categories": [
+      "acceptance",
+      "change",
+      "life"
+    ]
+  },
+  {
+    "id": ":ja161",
+    "text": "あなたと過ごした瞬間は輝いていた。天気が良かったから、天気が悪かったから、そして天気が十分良かったから。すべての瞬間を愛していた。",
+    "author": "When the Weather is Fine",
+    "language": "ja",
+    "categories": [
+      "love",
+      "appreciation",
+      "moments"
+    ]
+  },
+  {
+    "id": ":ja162",
+    "text": "良いことは時に良い人にも起こる。",
+    "author": "Hospital Playlist S2",
+    "language": "ja",
+    "categories": [
+      "positivity",
+      "karma",
+      "hope"
+    ]
+  },
+  {
+    "id": ":ja163",
+    "text": "感情は生き物のようなもの。無視すれば、制御不能に成長する。特に憎しみはそう。記憶を糧にして成長し続ける。",
+    "author": "More Than Friends",
+    "language": "ja",
+    "categories": [
+      "emotions",
+      "hatred",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": ":ja164",
+    "text": "何かが下手なのは、それがちょっと上手くなるための最初のステップだ。",
+    "author": "アドベンチャー・タイム",
+    "language": "ja",
+    "categories": [
+      "improvement",
+      "beginnings",
+      "growth"
+    ]
+  },
+  {
+    "id": ":ja165",
+    "text": "すべてが教訓というわけではない。時にはただ失敗するだけだ。",
+    "author": "ザ・オフィス",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "reality",
+      "acceptance"
+    ]
+  },
+  {
+    "id": ":ja166",
+    "text": "希望がないからといって希望を捨ててはいけない！もっと希望を持たなければ！",
+    "author": "フューチュラマ",
+    "language": "ja",
+    "categories": [
+      "hope",
+      "perseverance",
+      "optimism"
+    ]
+  },
+  {
+    "id": ":ja167",
+    "text": "強さとは戦うこと。それは難しく、痛みを伴い、毎日続く。それが私たちがしなければならないことであり、一緒にできること。",
+    "author": "バフィー・ザ・ヴァンパイア・スレイヤー",
+    "language": "ja",
+    "categories": [
+      "strength",
+      "perseverance",
+      "unity"
+    ]
+  },
+  {
+    "id": ":ja168",
+    "text": "謝るのではなく、堂々としていなさい。",
+    "author": "ルポールのドラァグレース",
+    "language": "ja",
+    "categories": [
+      "confidence",
+      "self-esteem",
+      "pride"
+    ]
+  },
+  {
+    "id": ":ja169",
+    "text": "自分が何者かを決して忘れるな。世界は忘れないだろう。それを鎧のように身につければ、傷つけられることはない。",
+    "author": "ゲーム・オブ・スローンズ",
+    "language": "ja",
+    "categories": [
+      "identity",
+      "self-awareness",
+      "strength"
+    ]
+  },
+  {
+    "id": ":ja170",
+    "text": "旅をするとき、人はすべてを受け入れる。怒りは家に残してくる。",
+    "author": "エリアス・カネッティ",
+    "language": "ja",
+    "categories": [
+      "travel",
+      "acceptance",
+      "mindset"
+    ]
+  },
+  {
+    "id": ":ja171",
+    "text": "ほとんど何も知らない国にいることほど、子供のような驚きを呼び起こすものはない。突然、また5歳の子供になったような気分になる。",
+    "author": "ビル・ブライソン",
+    "language": "ja",
+    "categories": [
+      "travel",
+      "wonder",
+      "discovery"
+    ]
+  },
+  {
+    "id": ":ja172",
+    "text": "場所を本当に恋しく思うためには、一度そこを離れる必要があるのかもしれない。",
+    "author": "ジョディ・ピコー",
+    "language": "ja",
+    "categories": [
+      "nostalgia",
+      "absence",
+      "appreciation"
+    ]
+  },
+  {
+    "id": ":ja173",
+    "text": "人間の本質は集まることだ。",
+    "author": "ウォーキング・デッド",
+    "language": "ja",
+    "categories": [
+      "humanity",
+      "connection",
+      "community"
+    ]
+  },
+  {
+    "id": ":ja174",
+    "text": "優柔不断によって失われるものは、間違った決断によって失われるものより多い。",
+    "author": "ザ・ソプラノズ",
+    "language": "ja",
+    "categories": [
+      "decision",
+      "indecision",
+      "action"
+    ]
+  },
+  {
+    "id": ":ja175",
+    "text": "時に、どの橋を渡り、どの橋を燃やすかを知ることが人生で最も難しいことだ。",
+    "author": "ザ・インターナショナル",
+    "language": "ja",
+    "categories": [
+      "decisions",
+      "life",
+      "choices"
+    ]
+  },
+  {
+    "id": ":ja176",
+    "text": "経験は厳しい教師だ。まず試験があり、その後で教訓が来る。",
+    "author": "ザ・クラウン",
+    "language": "ja",
+    "categories": [
+      "experience",
+      "lessons",
+      "life"
+    ]
+  },
+  {
+    "id": ":ja177",
+    "text": "王様だと言わなければならない者は真の王ではない。",
+    "author": "ゲーム・オブ・スローンズ",
+    "language": "ja",
+    "categories": [
+      "leadership",
+      "power",
+      "authenticity"
+    ]
+  },
+  {
+    "id": ":ja178",
+    "text": "ちゃんと働けば、必ずいつか報われる日が来る。報われなければ、働き方が悪いか働かせる者が悪いんだ。そんなとこはとっとと逃げ出しゃいいんだ。",
+    "author": "なつぞら",
+    "language": "ja",
+    "categories": [
+      "work",
+      "reward",
+      "self-respect"
+    ]
+  },
+  {
+    "id": ":ja179",
+    "text": "人生で本当に知りたいことは、ネットなんかに出てない！そういうことだ！",
+    "author": "過保護のカホコ",
+    "language": "ja",
+    "categories": [
+      "life",
+      "experience",
+      "knowledge"
+    ]
+  },
+  {
+    "id": ":ja180",
+    "text": "どんなにつらくても、ちゃんと寝て、ちゃんと食べて、好きな人の手を離さないで。",
+    "author": "過保護のカホコ",
+    "language": "ja",
+    "categories": [
+      "self-care",
+      "love",
+      "resilience"
+    ]
+  },
+  {
+    "id": ":ja181",
+    "text": "子育てで、後悔しない母親なんていないわよ。最後は覚悟を決めるしかないわよ。たとえ子供が転んでも立ち上がると信じて。愛するより、信じるほうが難しいんだから。",
+    "author": "過保護のカホコ",
+    "language": "ja",
+    "categories": [
+      "parenting",
+      "trust",
+      "love"
+    ]
+  },
+  {
+    "id": ":ja182",
+    "text": "大事なのは感謝と恩返しだ。その二つを忘れた未来はただの一人よがりの絵空事だ。",
+    "author": "半沢直樹",
+    "language": "ja",
+    "categories": [
+      "gratitude",
+      "reciprocity",
+      "future"
+    ]
+  },
+  {
+    "id": ":ja183",
+    "text": "自分のことしか考えられない時ってあるよ。",
+    "author": "不適切にもほどがある！",
+    "language": "ja",
+    "categories": [
+      "self-focus",
+      "honesty",
+      "humanity"
+    ]
+  },
+  {
+    "id": ":ja184",
+    "text": "あの子たちが30年40年後の未来をつくるんだよ。",
+    "author": "不適切にもほどがある！",
+    "language": "ja",
+    "categories": [
+      "future",
+      "youth",
+      "responsibility"
+    ]
+  },
+  {
+    "id": ":ja185",
+    "text": "真実は一つじゃないですよ。人の数だけある。でも「事実」は1つです。",
+    "author": "ミステリと言う勿れ",
+    "language": "ja",
+    "categories": [
+      "truth",
+      "perspective",
+      "facts"
+    ]
+  },
+  {
+    "id": ":ja186",
+    "text": "暗いと不平を言うよりも、あなたが進んで明かりをつけなさい。",
+    "author": "マザー・テレサ",
+    "language": "ja",
+    "categories": [
+      "action",
+      "positivity",
+      "initiative"
+    ]
+  },
+  {
+    "id": ":ja187",
+    "text": "生きるとは呼吸することではない、行動することだ。",
+    "author": "ジャン=ジャック・ルソー",
+    "language": "ja",
+    "categories": [
+      "life",
+      "action",
+      "purpose"
+    ]
+  },
+  {
+    "id": ":ja188",
+    "text": "自分の世界は、自分で変えなければ。",
+    "author": "のだめカンタービレ",
+    "language": "ja",
+    "categories": [
+      "change",
+      "responsibility",
+      "self-empowerment"
+    ]
+  },
+  {
+    "id": ":ja189",
+    "text": "想像力は知識よりも重要である。",
+    "author": "アルバート・アインシュタイン",
+    "language": "ja",
+    "categories": [
+      "imagination",
+      "knowledge",
+      "creativity"
+    ]
+  },
+  {
+    "id": ":ja190",
+    "text": "行動を決意することが最も難しく、残りは単なる粘り強さだ。",
+    "author": "アメリア・イアハート",
+    "language": "ja",
+    "categories": [
+      "action",
+      "decision",
+      "perseverance"
+    ]
+  },
+  {
+    "id": ":ja191",
+    "text": "恐れの向こう側にこそ、あなたが望むものすべてがある。",
+    "author": "ジョージ・アデア",
+    "language": "ja",
+    "categories": [
+      "fear",
+      "desire",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja192",
+    "text": "「面倒くさい」という感情は効率化につながる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "efficiency",
+      "motivation"
+    ]
+  },
+  {
+    "id": "ja193",
+    "text": "「考える」前に情報を集め、すでにたどり着いている人を探す。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "learning",
+      "strategy"
+    ]
+  },
+  {
+    "id": "ja194",
+    "text": "客観性がないと意見ではない。客観性とは意見の論拠となるような事実とデータです。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "objectivity",
+      "opinion"
+    ]
+  },
+  {
+    "id": "ja195",
+    "text": "「自分はバカだ」と予防線を張っていると本当にバカになる（失敗したときの言い訳作り）。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-awareness",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja196",
+    "text": "議論とは、主義主張の応酬、自分の論理性をいかに相手に認めさせるかです。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "debate",
+      "logic"
+    ]
+  },
+  {
+    "id": ":ja197",
+    "text": "努力が苦労になってしまわないように、正しい方向の努力をしないといけません。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "effort",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja198",
+    "text": "「できない」ことを諦めず、自分が出来ることでカバーする。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "resilience",
+      "adaptability"
+    ]
+  },
+  {
+    "id": "ja199",
+    "text": "突っ込まれるようなポイントがある意見は、どこか欠けているから他の人には「意見」だと思ってもらえない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "opinion",
+      "critical-thinking"
+    ]
+  },
+  {
+    "id": "ja200",
+    "text": "自分の実力が備わっていないことを知り、素直に認め反省する。それだけでも大きな成長。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-awareness",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja201",
+    "text": "実力が全くないと気にもならない。逆に生半可な実力だとできたところにばかり目が入ってできた気になってしまう。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-awareness",
+      "humility"
+    ]
+  },
+  {
+    "id": "ja202",
+    "text": "俺に才能なんてない。だけど、だから強くなれ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "motivation",
+      "effort"
+    ]
+  },
+  {
+    "id": ":ja203",
+    "text": "そのために努力しろ、学習しろ、経験しろ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "effort",
+      "learning"
+    ]
+  },
+  {
+    "id": "ja204",
+    "text": "才能のない俺に迷っている余裕はない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "motivation",
+      "effort"
+    ]
+  },
+  {
+    "id": "ja205",
+    "text": "犠牲が必要なら迷わず払うさ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "sacrifice",
+      "determination"
+    ]
+  },
+  {
+    "id": "ja206",
+    "text": "時間はお金では買えない。やれるようにやるしかないわ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "time-management",
+      "mindset"
+    ]
+  },
+  {
+    "id": "ja207",
+    "text": "心が折れかかってるみたい。でも誰にでもあることよ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "resilience",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "ja208",
+    "text": "大切なのは好奇心。好奇心があれば大丈夫。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "curiosity",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja209",
+    "text": "いい歳をして腹を立てるな。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "anger-management",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja210",
+    "text": "心貧しきもの。腹を立てられて気分が良い人間はいない。悪い影響をもたらすだけだ。結果自らの寿命を縮めることになる。短気は損気。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "anger-management",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja211",
+    "text": "人をいつまでも身分や地位で差別する人は、もともと頭が良くないので、計算なんて通じません。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "equality",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja212",
+    "text": "ただ悪口を言うだけの人になってはいけません。「あんなのは面白くない」と言ったのなら何が面白いのかを説明するくらいのことは出来ないといけません。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "criticism",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "ja213",
+    "text": "何もしないし、出来ないけど、悪口だけは言う。そんなくだらない人間にはならないよう、言った言葉の責任くらいは取れるような人になりましょう。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-awareness",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "ja214",
+    "text": "失敗して人に迷惑をかけると大事なものを失います。「信用」です。人と人との関係において、これほど大切なものはありません。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "trust",
+      "relationships"
+    ]
+  },
+  {
+    "id": "ja215",
+    "text": "失敗を許されたとしても、信用は確実に失われます。見方を変えれば、その人は信用と引き換えに、みんなの失敗を許してくれたのです。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "trust",
+      "forgiveness"
+    ]
+  },
+  {
+    "id": "ja216",
+    "text": "信用を失うと、ついつい「自分の悪かった部分」に目が入ってしまいがちです。でも、信用を取り戻したいなら、これまで自分が信用されていた理由＝「自分の良い部分」のほうに目を向けてください。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "trust",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "ja217",
+    "text": "「ま、いっか。それも自分」どんなコンプレックスでも同じ。コンプレックスは、成長のチャンスです。「ま、いっか」と思える日まで、頑張りましょう。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-acceptance",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja218",
+    "text": "間違いがあったら、どんどん指摘してもらう→直されることによって正しいことが分かるので、次からそれを使うだけ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "learning",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "ja219",
+    "text": "やる気だけに頼らない→習慣化。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "motivation",
+      "habits"
+    ]
+  },
+  {
+    "id": "ja220",
+    "text": "ストレス状態になって、おちゃらける人って自信がないのを隠してるのよね。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "stress-management",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": "ja221",
+    "text": "力比べなんて必要ない、女なんだからね。タフで賢い、だから平和に向けて話し合いましょう。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "peace",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja222",
+    "text": "悩まないで。運命はあなたが決めるの。人生に正解はないわ。何度道に迷っても、大切なのは自分を見失わないこと。賢明で強くあれ、自分に正直に生きて。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "self-determination",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "ja223",
+    "text": "王国を築くチャンスを与えたのよ。なのに寝てたわけ？私の睡眠時間を知っている？2時間よ。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "determination",
+      "hard-work"
+    ]
+  },
+  {
+    "id": "ja224",
+    "text": "私は最大限に生きたい。毎日少しでも何かをつかみたいの。怠けないで。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "motivation",
+      "life"
+    ]
+  },
+  {
+    "id": "ja225",
+    "text": "とんでもなく、バカバカしいわね。ネットじゃ見つからない。天職は自分の中にある。スーパーガールは飛べるからヒーローなの？違う。必要性があるからよ。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "self-discovery",
+      "purpose"
+    ]
+  },
+  {
+    "id": "ja226",
+    "text": "自分を見つめるの。人生で何をすべきか見つけ出しなさい。ネットのくだらない診断に頼らないで。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "self-awareness",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "ja227",
+    "text": "普通の人は大抵の時間を孤独に過ごすの。だから悲劇に襲われると、救助の他に癒しと安定を求めるの。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "loneliness",
+      "support"
+    ]
+  },
+  {
+    "id": "ja228",
+    "text": "あなたは心が折れかかってるみたい。でも誰にでもあることよ。医師から抗うつ剤をもらって。良い薬だから、きっと効くよ。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "mental-health",
+      "encouragement"
+    ]
+  },
+  {
+    "id": "ja229",
+    "text": "大丈夫だと慰めることはできないわ。そう簡単じゃない。簡単じゃないけど、不可能とは言っていない。反省し、返り咲かなきゃ、失敗した意味がない。時間はかかるわ。でも、町の信頼は取り戻せる。あなたなら。",
+    "author": "Super Girl",
+    "language": "ja",
+    "categories": [
+      "resilience",
+      "trust"
+    ]
+  },
+  {
+    "id": "ja230",
+    "text": "力があるから何かを成すんじゃない、何かを成したいから力を求め、使うんだ。お前はその意志が薄弱すぎるんだよ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "determination",
+      "strength"
+    ]
+  },
+  {
+    "id": "ja231",
+    "text": "調べないとわからないでしょ。誰かが助けてくれるわけじゃない。自分でググりな。教えて君じゃないので。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-reliance",
+      "learning"
+    ]
+  },
+  {
+    "id": "ja232",
+    "text": "教えて君 = なんでも 教えてほしいこと、自分でやりたくないから人にやらせる行為。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-reliance",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "ja233",
+    "text": "あなたが超えた壁は振り返るとあなたを守る壁となる。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "resilience",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja234",
+    "text": "失敗という「体験」が問題なのではない。できないという「思い込み」が問題なのだ。勇気がくじかれたことこそが問題なのである。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "mindset",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja235",
+    "text": "「結果より、努力する過程が大切だ」そんなこと真っ赤な嘘だと、大人になって人は気づく。人は結果でしかものを見ない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "results",
+      "effort",
+      "reality"
+    ]
+  },
+  {
+    "id": "ja236",
+    "text": "自分自身と約束し自分自身を信頼し、その信頼に応え続けることだけが、本物の自信につながります。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-trust",
+      "confidence"
+    ]
+  },
+  {
+    "id": "ja237",
+    "text": "絶対に実現できる目標を設定し続ける。「努力を続ける」ということも、自分との約束を守り続けることの繰り返しなのです。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "goals",
+      "effort",
+      "self-discipline"
+    ]
+  },
+  {
+    "id": "ja238",
+    "text": "「自分には才能がない」「凡人だからできない」と言った時点で「今のままでいい」「努力したくない」と言っているのと同じ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "mindset",
+      "effort"
+    ]
+  },
+  {
+    "id": "ja239",
+    "text": "「リスクがあるからできない」と思っているものは、きっと「やる必要がないもの」だ。今、自分が手にしているものを捨ててまでやる気になれないなら、結局、そういうことなのだろう。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "risk",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "ja240",
+    "text": "結局、言い訳をして行動しない人間は「暇」なのだ。しかし、その人にとっては合理的な行動なのだと思う。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "excuses",
+      "action",
+      "rationality"
+    ]
+  },
+  {
+    "id": "ja241",
+    "text": "経験不足で自信がないと言って、自分のプライドを守り、現状を変えずに済ませるために言い訳を作り出しているのだ。「できない理由」を探して何か良いことがあるのか？",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "excuses",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "ja242",
+    "text": "考え過ぎてしまう人間は、いつもチャンスを逃す。せっかく知り合いになった彼/彼女を誘うにも、身構えてしまう。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "overthinking",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ja243",
+    "text": "人間は弱い生き物だ。誰もが自分に優しい言い訳を考える。一度負けたら悔しい、だが2度目3度目と悔しさは薄くなっていく。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "weakness",
+      "excuses"
+    ]
+  },
+  {
+    "id": "ja244",
+    "text": "精一杯やればいい、負けてもいいことを前提に考える。それが勝者と敗者の分かれ道だ。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "effort",
+      "mindset",
+      "success"
+    ]
+  },
+  {
+    "id": "ja245",
+    "text": "自分で最初のアクションを起こす前に人に頼ってはいけない。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "self-reliance",
+      "action"
+    ]
+  },
+  {
+    "id": "ja246",
+    "text": "これをやって、自分にとって何かマイナスになるのか。ならないんだったら、行動を起こしてから悔やんだほうが絶対にいい。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "action",
+      "decision-making",
+      "regret"
+    ]
+  },
+  {
+    "id": "ja247",
+    "text": "過去に戻って始まりを変えることはできないが、今いる場所から始めて結末を変えることはできる：過去を変えることはできなくても、現在の行動で未来を変えることができるのです。",
+    "author": "C.S.ルイス",
+    "language": "ja",
+    "categories": [
+      "change",
+      "future",
+      "past",
+      "present",
+      "hope"
+    ]
+  },
+  {
+    "id": "ja248",
+    "text": "木のようになり、枯れた葉を落とせ：不要なものや過去の執着を手放し、新しい成長に集中しなければなりません。",
+    "author": "ルーミー",
+    "language": "ja",
+    "categories": [
+      "growth",
+      "letting-go",
+      "renewal",
+      "nature"
+    ]
+  },
+  {
+    "id": "ja249",
+    "text": "人生がレモンをくれたら、レモネードを作れ：困難や逆境が訪れても、それをポジティブなものに変換しないといけません。",
+    "author": "アメリカの格言",
+    "language": "ja",
+    "categories": [
+      "adversity",
+      "optimism",
+      "resilience",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ja250",
+    "text": "今日いくつかのドアを閉めよう。それは誇りや無能力や傲慢さからではなく、単にそれらがどこにも通じていないからだ：実りのない関係や努力は、勇気を持って断ち切る必要があります。",
+    "author": "パウロ・コエーリョ",
+    "language": "ja",
+    "categories": [
+      "closure",
+      "moving-on",
+      "decisions",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja251",
+    "text": "人生は解決すべき問題ではなく、経験すべき現実だ：人生の問題を解決しようとするのではなく、経験として受け止めることが大切です。",
+    "author": "キルケゴール",
+    "language": "ja",
+    "categories": [
+      "life",
+      "experience",
+      "philosophy",
+      "mindfulness"
+    ]
+  },
+  {
+    "id": "ja252",
+    "text": "養ってくれる手を噛むな：自分を助けてくれる人に対して、感謝の心を持ち害を与えてはいけません。",
+    "author": "英語の格言",
+    "language": "ja",
+    "categories": [
+      "gratitude",
+      "respect",
+      "relationships",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja253",
+    "text": "人生では、勇気を持って求めたものを手に入れる：自分の望みや目標に向かって、積極的に行動することが重要です。",
+    "author": "オプラ・ウィンフリー",
+    "language": "ja",
+    "categories": [
+      "courage",
+      "ambition",
+      "success",
+      "determination"
+    ]
+  },
+  {
+    "id": "ja254",
+    "text": "用心に越したことはない：事前に慎重に行動することで、後悔を防ぐことができます。",
+    "author": "英語の格言",
+    "language": "ja",
+    "categories": [
+      "caution",
+      "prudence",
+      "wisdom",
+      "safety"
+    ]
+  },
+  {
+    "id": "ja255",
+    "text": "好奇心が猫を殺す：過度な好奇心や詮索は時として危険を招くことがあるので注意が必要です。",
+    "author": "英語の格言",
+    "language": "ja",
+    "categories": [
+      "curiosity",
+      "caution",
+      "risk",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja256",
+    "text": "人生はカメラのようなもの：良い時に焦点を当て、ネガから発展し、うまくいかなければ別のショットを撮る：人生の良い瞬間に集中し、失敗から学び、必要なら再挑戦することが大切です。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "perspective",
+      "resilience",
+      "opportunity",
+      "growth"
+    ]
+  },
+  {
+    "id": "ja257",
+    "text": "間違いは、あなたが挑戦している証拠だ：失敗を恐れずに挑戦し続けることが、成長につながります。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "mistakes",
+      "challenge",
+      "growth",
+      "courage"
+    ]
+  },
+  {
+    "id": "ja258",
+    "text": "卵がかえる前にニワトリの数を数えるな：結果が出る前に過度な期待をしたり、計画を立てすぎたりしないよう注意が必要です。",
+    "author": "英語の格言",
+    "language": "ja",
+    "categories": [
+      "expectations",
+      "planning",
+      "caution",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "ja259",
+    "text": "失敗は成功の反対ではない。それは成功の一部だ：失敗は成功への過程であり、避けるべきものではなく受け入れるべきものです。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "failure",
+      "success",
+      "growth",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "ja260",
+    "text": "打たないシュートは100%外れる：成功するためには、まず行動を起こすことが不可欠です。",
+    "author": "ウェイン・グレツキー",
+    "language": "ja",
+    "categories": [
+      "action",
+      "initiative",
+      "opportunity",
+      "sports"
+    ]
+  },
+  {
+    "id": "ja261",
+    "text": "人生の教訓は嵐が過ぎるのを待つことではなく、雨の中で踊ることを学ぶことだ：困難な状況でも、その中で喜びを見出し前向きに生きることが大切です。",
+    "author": "不明",
+    "language": "ja",
+    "categories": [
+      "life",
+      "adversity",
+      "positivity",
+      "resilience"
+    ]
+  },
+  {
+    "id": "ja262",
+    "text": "不可能なことは何もない。その言葉自体が「私はできる！」と言っている：「impossible」という言葉の中に「I'm possible」があるように、不可能と思えることでも可能性を信じることが大切です。",
+    "author": "オードリー・ヘプバーン",
+    "language": "ja",
+    "categories": [
+      "possibility",
+      "motivation",
+      "optimism",
+      "wordplay"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/matsuoyuki/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/matsuoyuki/Desktop/MyHobby/Flutter/ASMR_Sport/android/app/.cxx/Debug/60522d2w/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/matsuoyuki/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/matsuoyuki/Desktop/MyHobby/Flutter/ASMR_Sport/android/app/.cxx/Debug/60522d2w/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

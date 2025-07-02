@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPS.Obfuscator", "OPS.Obfuscator.csproj", "{5C9F2B99-1988-9F4F-BE48-18ABCFB613ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6A9F9201-486D-94D8-26EE-6FCB24735475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0B0C286C-BC83-45DC-1851-838035460D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{0EB4AC28-1983-638D-0BB4-95BFA67B79A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9F2B99-1988-9F4F-BE48-18ABCFB613ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F2B99-1988-9F4F-BE48-18ABCFB613ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F2B99-1988-9F4F-BE48-18ABCFB613ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F2B99-1988-9F4F-BE48-18ABCFB613ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9F9201-486D-94D8-26EE-6FCB24735475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9F9201-486D-94D8-26EE-6FCB24735475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9F9201-486D-94D8-26EE-6FCB24735475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9F9201-486D-94D8-26EE-6FCB24735475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0C286C-BC83-45DC-1851-838035460D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0C286C-BC83-45DC-1851-838035460D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0C286C-BC83-45DC-1851-838035460D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0C286C-BC83-45DC-1851-838035460D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB4AC28-1983-638D-0BB4-95BFA67B79A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB4AC28-1983-638D-0BB4-95BFA67B79A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB4AC28-1983-638D-0BB4-95BFA67B79A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB4AC28-1983-638D-0BB4-95BFA67B79A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

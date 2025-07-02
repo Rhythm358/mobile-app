@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0B0C286C-BC83-45DC-1851-838035460D01}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47c1fb86-5b61-4df3-857a-f4e54aaf4449" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdMobScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FireStoreScript.cs" Line="32" Column="14" />
+      <File FileName="Assets/Scripts/SendButton.cs" />
+      <File FileName="Assets/Scripts/Hit.cs" />
+      <File FileName="Assets/Scripts/AdMobScript.cs" Line="21" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

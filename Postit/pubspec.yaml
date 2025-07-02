@@ -1,0 +1,148 @@
+name: todo
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+
+#version: [バージョン名]+[バージョンコード]
+version: 1.0.10+10
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+# dependencies セクションは、プロジェクトの実行に必要な主要な依存関係（パッケージ）を指定
+# any 最新バージョンを指定
+# バージョン番号を指定する場合、特定のバージョンとの互換性が確認された安定した状態を得ることが可能
+# また、パッケージの更新によって導入される変更やバグ修正にも対応することが可能
+dependencies:
+  flutter_lints: ^2.0.0
+  image_gallery_saver: ^1.7.1
+  screenshot: ^2.1.0
+  sqflite: ^2.2.8+4
+  path_provider: ^2.0.15
+  shared_preferences: any
+  app_tracking_transparency: any
+  intl: any
+  flutter_staggered_grid_view: ^0.4.0-nullsafty.3
+  path: any
+  flutter_launcher_icons: any
+  user_messaging_platform: ^1.2.1
+  font_awesome_flutter: ^10.5.0
+  provider: ^6.0.5
+  google_mobile_ads: ^3.0.0
+
+
+dependency_overrides:
+  package_info_plus: any
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/icon/todo.png"
+
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+
+# dev_dependencies セクションは、プロジェクトの開発段階でのみ使用される依存関係（パッケージ）を指定します。
+# これらのパッケージは、開発中にテスト、デバッグ、コードフォーマットなどの目的で使用されますが、
+# 実際のアプリケーションのコードには含まれません。
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+     # 付箋 画像
+     - lib/images/postit/postit1.png
+     - lib/images/postit/postit2.png
+     - lib/images/postit/postit3.png
+     - lib/images/postit/postit4.png
+     - lib/images/postit/postit5.png
+     - lib/images/postit/postit6.png
+     - lib/images/postit/postit7.png
+     - lib/images/postit/postit8.png
+     - lib/images/postit/postit9.png
+     - lib/images/postit/postit10.png
+     - lib/images/postit/postit11.png
+     - lib/images/postit/postit12.png
+     - lib/images/postit/postit13.png
+     # 背景 画像
+     - lib/images/background/background1.jpg
+     - lib/images/background/background2.jpg
+     - lib/images/background/background3.jpg
+     - lib/images/background/background4.jpg
+     - lib/images/background/background5.jpg
+     - lib/images/background/background6.jpg
+     - lib/images/background/background7.jpg
+     - lib/images/background/background8.jpg
+     - lib/images/background/background9.jpg
+     - lib/images/background/background10.jpg
+     - lib/images/background/background11.jpg
+     - lib/images/background/background12.jpg
+     - lib/images/background/background13.jpg
+     - lib/images/background/background14.jpg
+     - lib/images/background/background15.jpg
+     - lib/images/background/background16.jpg
+     - lib/images/background/background17.jpg
+     - lib/images/background/background18.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
