@@ -13,12 +13,11 @@ featuring AI chat, study timer, and ad integration.
 - AdMob integration
 
 ## Folder Structure
-
+```
 WordCount/
 ├── Application/ # App entry point and localization
 ├── Core/ # Core data and ad modules
 ├── Features/ # Main features (AIChat, Clock, etc.)
 ├── Resources/ # Images and assets
 Pods/ # CocoaPods dependencies
-
-undefined
+```
