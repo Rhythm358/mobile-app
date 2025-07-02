@@ -1,0 +1,138 @@
+/* App Title */
+"Word Count" = "Word Count";
+
+/* Navigation and Buttons */
+"Save" = "Save";
+"Speak" = "Speak";
+"Done" = "Done";
+
+/* Statistics */
+"chars_count" = "Chars: %d ";
+"words_count" = "Words: %d";
+"(Space not included)" = "(Space not included)";
+"実行" = "Execute";
+
+/* AI Functions */
+"📊 AI採点・評価" = "📊 AI Scoring & Evaluation";
+"✨ 文章ブラッシュアップ" = "✨ Text Enhancement";
+"🎯 文法チェック＆修正" = "🎯 Grammar Check & Correction";
+"💡 表現力向上提案" = "💡 Expression Improvement";
+"🌟 ネイティブ風リライト" = "🌟 Native-style Rewrite";
+"📝 TOEIC/IELTS対策添削" = "📝 TOEIC/IELTS Prep Review";
+"📊 詳細文字数分析" = "📊 Detailed Character Analysis";
+"📖 読みやすさ分析" = "📖 Readability Analysis";
+
+
+/* Placeholders */
+"Title" = "Title";
+"Search memos..." = "Search memos...";
+
+/* Time Format */
+"Min" = "Min";
+"Time Required" = "Time Required";
+
+/* Settings Screen */
+"Review on AppStore" = "Review on AppStore";
+"Share this app" = "Share this app";
+"Privacy Policy" = "Privacy Policy";
+"Camera Setting" = "Camera Setting";
+"Microphone Setting" = "Microphone Setting";
+"Appearance setting" = "Appearance setting";
+"Follow system" = "Follow system";
+"Dark mode" = "Dark mode";
+"Light mode" = "Light mode";
+"Timer On/Off" = "Timer On/Off";
+"Time" = "Time";
+"Cancel" = "Cancel";
+
+/* Points and Ads */
+"Points: %d" = "Points: %d";
+"Watch Ad (+5)" = "Watch Ad (+5)";
+"AI分析を実行 (-%dポイント)" = "Execute AI Analysis (-%d points)";
+"ポイントが不足しています" = "Insufficient Points";
+"AI機能を使用するには%dポイント必要です。動画広告を見ると5ポイントもらえます。" = "You need %d points to use AI features. You can earn 5 points by watching a video ad.";
+"広告を見る" = "Watch Ad";
+"キャンセル" = "Cancel";
+
+/* Empty State */
+"No Memos Yet" = "No Memos Yet";
+"Create your first memo to get started" = "Create your first memo to get started";
+"Create New Memo" = "Create New Memo";
+
+"good_morning" = "Good Morning";
+"good_afternoon" = "Good Afternoon";
+"good_evening" = "Good Evening";
+"good_night" = "Good Night";
+"hour_label" = "H";
+"minute_label" = "M";
+"second_label" = "S";
+
+/* Clock and Timer */
+"現在時刻" = "Current Time";
+"時計・タイマー" = "Clock & Timer";
+"時計モード" = "Clock Mode";
+"アナログ" = "Analog";
+"デジタル" = "Digital";
+"タイマー" = "Timer";
+
+/* Study Timer */
+"集中タイマー" = "Focus Timer";
+"集中時間" = "Focus Time";
+"休憩時間" = "Break Time";
+"ポモドーロテクニック" = "Pomodoro Technique";
+"完了サイクル" = "Completed Cycles";
+"進捗" = "Progress";
+"残り時間" = "Time Left";
+"次の段階" = "Next Phase";
+"休憩" = "Break";
+"集中" = "Focus";
+"一時停止中" = "Paused";
+"待機中" = "Waiting";
+"集中中..." = "Focusing...";
+"休憩中..." = "On Break...";
+"今日の統計" = "Today's Stats";
+"詳細" = "Details";
+
+/* Timer Settings */
+"タイマー設定" = "Timer Settings";
+"キャンセル" = "Cancel";
+"保存" = "Save";
+"プリセット" = "Presets";
+"クリア" = "Clear";
+"カスタム設定" = "Custom Settings";
+"プレビュー" = "Preview";
+"ポモドーロ" = "Pomodoro";
+"25分集中 / 5分休憩" = "25min Focus / 5min Break";
+"最も一般的な時間設定" = "Most common time setting";
+"短時間集中" = "Short Focus";
+"15分集中 / 3分休憩" = "15min Focus / 3min Break";
+"集中力が続きにくい方におすすめ" = "Recommended for shorter attention spans";
+"長時間集中" = "Long Focus";
+"45分集中 / 10分休憩" = "45min Focus / 10min Break";
+"深い作業に集中したい方向け" = "For deep work sessions";
+"1サイクル: %d分" = "1 Cycle: %d min";
+"集中と休憩の時間を設定して、効率的な学習リズムを作りましょう" = "Set focus and break times to create an efficient study rhythm";
+
+/* Statistics Details */
+"詳細統計" = "Detailed Statistics";
+"今日の実績" = "Today's Achievement";
+"総集中時間" = "Total Focus Time";
+"総休憩時間" = "Total Break Time";
+"効率性" = "Efficiency";
+"平均集中時間" = "Average Focus Time";
+"集中/休憩比率" = "Focus/Break Ratio";
+"目標達成" = "Goal Achievement";
+"1日の目標進捗" = "Daily Goal Progress";
+"1日の推奨サイクル: 8回" = "Recommended daily cycles: 8";
+"完了" = "Done";
+"時間" = "hours";
+"分" = "minutes";
+
+/* Alert Messages */
+"保存完了" = "Save Complete";
+"メモが正常に保存されました" = "Memo saved successfully";
+"保存エラー" = "Save Error";
+"メモの保存に失敗しました" = "Failed to save memo";
+"変更なし" = "No Changes";
+"変更がないため保存をスキップしました" = "Skipped saving as there were no changes";
+"OK" = "OK";

@@ -1,21 +1,31 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '15.0'
 
-target 'MemoApp' do
+target 'WordCount' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for MemoApp
-  pod "Alamofire" #この行でAlamofireを追加できるので、書き加えてください
+  # Pods for WordCount
+  pod "Alamofire"
   pod 'Google-Mobile-Ads-SDK'
 
-  target 'MemoAppTests' do
+  target 'WordCountTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'MemoAppUITests' do
-    # Pods for testing
-  end
+  # WordCountUITestsターゲットを削除またはコメントアウト
+  # target 'WordCountUITests' do
+  #   # Pods for testing
+  # end
 
+end
+
+# CocoaPodsの競合設定を自動削除
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings.delete 'ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES'
+    end
+  end
 end
